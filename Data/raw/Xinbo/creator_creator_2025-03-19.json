@@ -1,0 +1,80 @@
+[
+    {
+        "user_id": "5d236c2400000000110291ba",
+        "nickname": "AAAAAlbert",
+        "gender": "男",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vtjeqk05q0g5n93dgi4d4dqdq0ngg0?imageView2/2/w/360/format/webp",
+        "desc": "Texan/Engineer/Home Improvement/Road Trip Fan",
+        "ip_location": "美国",
+        "follows": "146",
+        "fans": "456",
+        "interaction": "3880",
+        "tag_list": "{\"info\": \"巨蟹座\", \"location\": \"UnitedStates\"}",
+        "last_modify_ts": 1742440387366
+    },
+    {
+        "user_id": "6303b99d0000000012001f58",
+        "nickname": "北极熊的美国生活笔记",
+        "gender": null,
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/64dd4d29dcb18b56fa6b0e99.jpg?imageView2/2/w/360/format/webp",
+        "desc": "🇺🇸17年\n🏠 南京 ❄️波士顿 🌧️西雅图 🌞达拉斯\n你的北美生活博主\n摄影+旅游👉@我是邻居家的猫\n私信不看请见谅❤️",
+        "ip_location": "美国",
+        "follows": "49",
+        "fans": "1490",
+        "interaction": "28504",
+        "tag_list": "{}",
+        "last_modify_ts": 1742440998789
+    },
+    {
+        "user_id": "5f1880d8000000000101d503",
+        "nickname": "你的TX朋友圈",
+        "gender": "女",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31405veik2c005noog3c0bl83dtpl2bg?imageView2/2/w/360/format/webp",
+        "desc": "🇺🇸TX小红🍠们，定期播报吃喝玩乐、一手探店讯息、餐馆测评、用餐指南！❤️\n很高兴成为你的TX朋友圈☺️",
+        "ip_location": "",
+        "follows": "17",
+        "fans": "1300",
+        "interaction": "7191",
+        "tag_list": "{\"info\": null, \"location\": \"UnitedStates\"}",
+        "last_modify_ts": 1742443047344
+    },
+    {
+        "user_id": "63288a0200000000230275fd",
+        "nickname": "Texas达村德州JC",
+        "gender": "男",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318kqs2bv3k605op8h818stfta1a2g5o?imageView2/2/w/360/format/webp",
+        "desc": "Speak Texan, Cantonese, Mandarin\n愛上德州Texas!\n愛上達村Dallas!",
+        "ip_location": "美国",
+        "follows": "106",
+        "fans": "454",
+        "interaction": "2710",
+        "tag_list": "{\"info\": null, \"location\": \"UnitedStates\", \"profession\": \"职业顾问\", \"college\": \"达拉斯浸会大学\"}",
+        "last_modify_ts": 1742443847745
+    },
+    {
+        "user_id": "57a142546a6a695a454d664e",
+        "nickname": "meow-",
+        "gender": "女",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/60ceca5c332174000153fed7.jpg?imageView2/2/w/360/format/webp",
+        "desc": "心上不长草 诗酒趁年华",
+        "ip_location": "美国",
+        "follows": "257",
+        "fans": "427",
+        "interaction": "10594",
+        "tag_list": "{\"info\": null, \"location\": \"海外美国\"}",
+        "last_modify_ts": 1742444873669
+    },
+    {
+        "user_id": "6110a0940000000001002eec",
+        "nickname": "Fun Life Club",
+        "gender": "女",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c4avj6e0s705o8gk2a08bncoa7q46g?imageView2/2/w/360/format/webp",
+        "desc": "来美十年 电商/数字化营销/商业智能\n分享旅行、日常、成长、思考",
+        "ip_location": "美国",
+        "follows": "161",
+        "fans": "311",
+        "interaction": "4149",
+        "tag_list": "{\"info\": null, \"location\": \"UnitedStates\"}",
+        "last_modify_ts": 1742446203017
+    }
+]

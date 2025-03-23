@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "5eef790e0000000001002090",
+        "nickname": "小水瓶莉莉",
+        "gender": "女",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63e27cfa40064f66dd914dcf.jpg?imageView2/2/w/360/format/webp",
+        "desc": "🇬🇧UoE➡️🇩🇪家电➡️🇺🇸建材\n🌍携程签约旅行家 花筑特邀体验官\n长白山万达度假区雪季体验官\n巴黎联合国总部演讲人\n分享生活有问必答💗SunLily0000",
+        "ip_location": "美国",
+        "follows": "184",
+        "fans": "716",
+        "interaction": "11173",
+        "tag_list": "{\"info\": \"水瓶座\", \"location\": \"中国\", \"profession\": \"旅行博主\"}",
+        "last_modify_ts": 1742447583299
+    },
+    {
+        "user_id": "6104251600000000010052ab",
+        "nickname": "JoanneJJJ",
+        "gender": null,
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uduhofql8005o844kb08klbbkpr048?imageView2/2/w/360/format/webp",
+        "desc": "👩🏻‍💻四大 · CPA\n要开心·要洒脱·要爱自己·要好好吃饭·要好好睡觉\nig: baobao_jjj",
+        "ip_location": "",
+        "follows": "48",
+        "fans": "404",
+        "interaction": "2381",
+        "tag_list": "{\"info\": \"双子座\", \"location\": \"UnitedStates\"}",
+        "last_modify_ts": 1742453206427
+    },
+    {
+        "user_id": "5b7ba8c2e6c06200012a5977",
+        "nickname": "倚砳是好吃包",
+        "gender": "女",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a3j6dqnn2004ahhc4kc4mbnvbm1cb0?imageView2/2/w/360/format/webp",
+        "desc": "背包客，旅行产品工作，攻略达人\n分享我在世界各地 吃过/见过的美食",
+        "ip_location": "四川",
+        "follows": "43",
+        "fans": "487",
+        "interaction": "5075",
+        "tag_list": "{\"info\": null}",
+        "last_modify_ts": 1742453930487
+    }
+]
