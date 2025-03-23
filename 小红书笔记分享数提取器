@@ -1,0 +1,78 @@
+// ==UserScript==
+// @name         小红书笔记互动数解析器（控制台四色版）
+// @namespace    http://tampermonkey.net/
+// @version      1.3.2
+// @description  控制台输出四色日志 + 页面四色显示
+// @author       Xiaohan
+// @match        *://www.xiaohongshu.com/explore/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 定义颜色方案
+    const COLORS = {
+        console: {
+            like: 'color: #FF6B6B;',      // 控制台-点赞色
+            collect: 'color: #4ECDC4;',   // 控制台-收藏色
+            comment: 'color: #FFD93D;',    // 控制台-评论色
+            share: 'color: #A974FF;'      // 控制台-分享色
+        },
+        page: {
+            like: '#FF6B6B',             // 页面-点赞色
+            collect: '#4ECDC4',          // 页面-收藏色
+            comment: '#FFD93D',          // 页面-评论色
+            share: '#A974FF'            // 页面-分享色
+        }
+    };
+
+    function getRandomDelay(min = 1001, max = 4010) {
+        return Math.floor(Math.random() * (max - min) + min);
+    }
+
+    function createColoredSpan(text, color) {
+        const span = document.createElement('span');
+        span.style.cssText = `color: ${color}; margin-right: 15px;`;
+        span.textContent = text;
+        return span;
+    }
+
+    function extractData() {
+        try {
+            const noteId = window.location.pathname.split('/').pop();
+            const interactInfo = window.__INITIAL_STATE__?.note?.noteDetailMap?.[noteId]?.note?.interactInfo || {};
+
+            const data = {
+                like: interactInfo.likedCount ?? 'N/A',
+                collect: interactInfo.collectedCount ?? 'N/A',
+                comment: interactInfo.commentCount ?? 'N/A',
+                share: interactInfo.shareCount ?? 'N/A'
+            };
+
+            // 控制台四色输出
+            console.log('%c[脚本日志] 点赞数:', COLORS.console.like, data.like);
+            console.log('%c[脚本日志] 收藏数:', COLORS.console.collect, data.collect);
+            console.log('%c[脚本日志] 评论数:', COLORS.console.comment, data.comment);
+            console.log('%c[脚本日志] 分享数:', COLORS.console.share, data.share);
+
+            // 页面四色显示
+            const titleElement = document.querySelector('.note-title');
+            if (titleElement) {
+                const container = document.createElement('div');
+                container.style.marginLeft = '12px';
+                container.appendChild(createColoredSpan(`点赞: ${data.like}`, COLORS.page.like));
+                container.appendChild(createColoredSpan(`收藏: ${data.collect}`, COLORS.page.collect));
+                container.appendChild(createColoredSpan(`评论: ${data.comment}`, COLORS.page.comment));
+                container.appendChild(createColoredSpan(`分享: ${data.share}`, COLORS.page.share));
+                titleElement.appendChild(container);
+            }
+        } catch (e) {
+            console.error('[脚本错误]', e.message);
+        }
+    }
+
+    window.addEventListener('load', function() {
+        setTimeout(extractData, getRandomDelay());
+    });
+})();
