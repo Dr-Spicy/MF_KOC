@@ -8,7 +8,7 @@
         └── release/*   - Pre-production staging (E.g. pre-release/v0.2.3)
 
 __Update Logic__:
-- __Main Branch__: The protected master branch, usually merged from `dev` and `hotfix` after Pull Requests(PR) have been approved, none shall change its content directly at no time for branch stability;
+- __Master Branch__: The protected main branch, usually merged from `dev` and `hotfix` after Pull Requests(PR) have been approved, none shall change its content directly at no time for branch stability;
 
 - __Dev Branch__: The development branch requiring status check, it is always consist of the most recently updated and fixed codes from all `feature/*` branches;
 
