@@ -21,7 +21,12 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
 
     /Docs                   - All documents, including Google Drive files and other local ones
      ├── GoogleDriveFiles   - Links to the Google Drive Folder
-     └── others             - 
+     ├── Repo_Collab_Guide  - How to on branches
+     ├── ListOfCompetitors  - Yelp comparison
+     └── mf_koc(py39)       - Virtual Environment config
+
+    /EDA
+     ├── RadarChart         - Function to plot radar chart
 
     /Figs                   - All Figures
 
