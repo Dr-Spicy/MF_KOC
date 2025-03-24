@@ -1,0 +1,8 @@
+- [EDA, Meeting Note 03.20.25](https://docs.google.com/document/d/1Kk6r-bxqHFWohx2OmWGS0nbWAacMe2TGh74Tn0aWo9w/edit?tab=t.0)
+- [Data Preprocessing (Ongoing)](https://docs.google.com/document/d/12sbdbHPb3qIHAQVrfd46TCSVAT4V1E2mCoeTSvn3CBQ/edit?tab=t.0)
+- [KOC Excel(新红, 需要更新)](https://docs.google.com/spreadsheets/d/1D5irT_7hQ8TKDmG7wnUaIZvkMZ-2M5tE6esM6_lVe2I/edit?gid=0#gid=0)
+- [XHS data collection (Completed)](https://docs.google.com/document/d/10ihBte4JEnoOVPOS0hM-0s130EwKUH6gRedcRlczfR8/edit?tab=t.0)
+- [KOC data collection progress 03.16.25](https://docs.google.com/document/d/1gd2jEAEFejvmvBbXdnjXeWQ8Jnvyi1pGGHsZsukQMJo/edit?tab=t.0#heading=h.o6yqx8510kos)
+- [How to scrape KOC with the crawler](https://docs.google.com/document/d/142EU3vLDCpLUkprkb-_M3KopuTFiOUkRthaEDl64-P8/edit?tab=t.0#heading=h.dyk9sokhnzss)
+- [TamperMonkey: ShareCount](https://docs.google.com/document/d/1pEANTSPLje7MSx3iEb7s6RIGL2QNqFFzEMig5FgbMgA/edit?tab=t.0#heading=h.u6o3f2x87hxh)
+- [Meeting Note 03.07.25](https://docs.google.com/document/d/1mqTZPVh3O2TKMqP7qwDwb25_VmxcL1ETDZU6DOnl2OY/edit?tab=t.0)

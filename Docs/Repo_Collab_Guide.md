@@ -1,4 +1,4 @@
-**Branch Architecture & Workflow**
+## 1. Branch Architecture & Workflow
 
 
     master              - Production (Protected, a pull request approval needed)
@@ -29,9 +29,17 @@ __Update Logic__:
         - chore
     - __subject__: describe the purpose of this commit briefly. 
 
-![Illustrator](./Docs/Fig/GitFlow.png)
+![Illustrator](../Figs/GitFlow.png)
 
 更多在[reference](https://mp.weixin.qq.com/s?__biz=MzU2OTkwNzAxMw==&mid=2247485475&idx=1&sn=57a5b22af2024a3a3affd626880953e8&chksm=fd9c360d2a51faeb90849c3e15f72fbef2231ad6467f40faf7cd2b4c110bb8d2824ad104141a#rd)
+
+## 2. Integrate/Migrate your repos in 
+
+There are 2 popular ways to port your existing repos in, and you can AI the detailed steps easily based on your needs and try your best to keep a linear history
+
+    - Via git submodule
+    - Via git subtree
+
 <!---
 
 # 2. **Enhanced Branch Protection**
