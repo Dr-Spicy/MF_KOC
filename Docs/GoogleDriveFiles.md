@@ -1,6 +1,7 @@
 - [EDA, Meeting Note 03.20.25](https://docs.google.com/document/d/1Kk6r-bxqHFWohx2OmWGS0nbWAacMe2TGh74Tn0aWo9w/edit?tab=t.0)
 - [Data Preprocessing (Ongoing)](https://docs.google.com/document/d/12sbdbHPb3qIHAQVrfd46TCSVAT4V1E2mCoeTSvn3CBQ/edit?tab=t.0)
 - [KOC Excel(新红, 需要更新)](https://docs.google.com/spreadsheets/d/1D5irT_7hQ8TKDmG7wnUaIZvkMZ-2M5tE6esM6_lVe2I/edit?gid=0#gid=0)
+- [小红书薯类等级分类和合作建议](https://docs.google.com/document/d/1A-RRuR5KgTDxFw-PI3GABSbWgDD0wXoaww0KtgVJQ6A/edit?tab=t.0#heading=h.yziof9tjci88)
 - [XHS data collection (Completed)](https://docs.google.com/document/d/10ihBte4JEnoOVPOS0hM-0s130EwKUH6gRedcRlczfR8/edit?tab=t.0)
 - [KOC data collection progress 03.16.25](https://docs.google.com/document/d/1gd2jEAEFejvmvBbXdnjXeWQ8Jnvyi1pGGHsZsukQMJo/edit?tab=t.0#heading=h.o6yqx8510kos)
 - [How to scrape KOC with the crawler](https://docs.google.com/document/d/142EU3vLDCpLUkprkb-_M3KopuTFiOUkRthaEDl64-P8/edit?tab=t.0#heading=h.dyk9sokhnzss)
