@@ -23,8 +23,8 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
      ├── GoogleDriveFiles   - Links to the Google Drive Folder
      ├── Repo_Collab_Guide  - How to on branches
      ├── ListOfCompetitors  - Yelp comparison
-     ├── 6打分维度           - 
-     ├── 维度1账号影响力      -  
+     ├── 5打分维度           - 打分依据
+     ├── 
      └── mf_koc(py39)       - Virtual Environment config
 
     /EDA
