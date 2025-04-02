@@ -1,5 +1,5 @@
 - [维度1. 账号影响力](https://drive.google.com/file/d/1VpsmD4WEBy8ml49ISt6pZYqZpBEks1X3/view?usp=sharing)
-- [6打分维度](https://drive.google.com/file/d/1j3mHDYkE4VigJM5fE-xmXUjwtYTBiMJ4/view?usp=sharing)
+- [5打分维度](https://drive.google.com/file/d/1j3mHDYkE4VigJM5fE-xmXUjwtYTBiMJ4/view?usp=sharing)
 - [EDA, Meeting Note 03.20.25](https://docs.google.com/document/d/1Kk6r-bxqHFWohx2OmWGS0nbWAacMe2TGh74Tn0aWo9w/edit?tab=t.0)
 - [Data Preprocessing (Ongoing)](https://docs.google.com/document/d/12sbdbHPb3qIHAQVrfd46TCSVAT4V1E2mCoeTSvn3CBQ/edit?tab=t.0)
 - [KOC Excel(新红, 需要更新)](https://docs.google.com/spreadsheets/d/1D5irT_7hQ8TKDmG7wnUaIZvkMZ-2M5tE6esM6_lVe2I/edit?gid=0#gid=0)
