@@ -1,7 +1,7 @@
 # MF_KOC
 KOC based cyber campaign on Xiaohongshu(Rednote) for MeetFresh DFW 
 
-## 1. How to collab on this repo (branch, commit, migrate etc.)
+## 1. How to colab on this repo (branch, commit, migrate etc.)
 Please read this [document](./Docs/Repo_Collab_Guide.md)!!!!
 
 ## 2. Environment set up
