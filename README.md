@@ -18,7 +18,12 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
     /Data                   - All data
      ├── raw                - Raw creators and contents JSON files from MediaCrawler
      └── processed          - Combined and preprocessed based on the EDA description
-
+        ├── contents_cooked.json   - Processed contents data
+        ├── contents_raw.json      - Raw contents data
+        ├── creator_cooked.json    - Processed creators data
+        └── creator_raw.json        - Raw creators data
+    /DataPreprocessing
+     ├── preprocessing.ipynb    - Code for creators and contents data preprocessing & feature engineering
     /Docs                   - All documents, including Google Drive files and other local ones
      ├── GoogleDriveFiles   - Links to the Google Drive Folder
      ├── Repo_Collab_Guide  - How to on branches
