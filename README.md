@@ -36,6 +36,7 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
      ├── RadarChart         - Function to plot radar chart
      ├── creator_and_content_tables         - Creator and Content Tables
      ├── day_count & week_count          - Function to plot interaction bar plot by time
+     ├── KOC_eda_stakeholder            - Function to plot keywords related plot / analysis after preprocessed data
 
     /Figs                   - All Figures
 
