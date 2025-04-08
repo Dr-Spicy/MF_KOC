@@ -16,6 +16,11 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
 ## 3. File structure (update if you add items)
 
     /Data                                   - All data
+
+    ├── KOC_cooked4RAG                      - Cooked creators+xh and contents JSON with description to LLM
+
+    ├── KOC_raw4RAG                         - Raw creators and contents JSON with description to LLM
+
      ├── raw                                - Raw creators and contents JSON files from MediaCrawler
         ├── contents_total.json             - Simply combined contents data
         ├── creator_total.json              - Simply combined creator data
@@ -25,7 +30,8 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
         ├── contents_cooked.json            - Processed contents data
         ├── contents_raw.json               - Raw contents data
         ├── creator_cooked.json             - Processed creators data
-        └── creator_raw.json                - Raw creators data
+        ├── creator_raw.json                - Raw creators data
+        └── creator_cooked_xh.json          - Processed creators data + 新红
 
     /DataPreprocessing
      ├── preprocessing.ipynb                - Code for creators and contents data preprocessing & feature 
