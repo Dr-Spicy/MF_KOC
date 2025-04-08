@@ -15,31 +15,45 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
 
 ## 3. File structure (update if you add items)
 
-    /Data                   - All data
-     ├── raw                - Raw creators and contents JSON files from MediaCrawler
-     └── processed          - Combined and preprocessed based on the EDA description
-        ├── contents_cooked.json   - Processed contents data
-        ├── contents_raw.json      - Raw contents data
-        ├── creator_cooked.json    - Processed creators data
-        └── creator_raw.json        - Raw creators data
+    /Data                                   - All data
+     ├── raw                                - Raw creators and contents JSON files from MediaCrawler
+        ├── contents_total.json             - Simply combined contents data
+        ├── creator_total.json              - Simply combined creator data
+        ├── XHS_KOC_List - Sheet1.csv       - G-drive spreadsheet contains Xinhong data
+
+     └── processed                          - Combined and preprocessed based on the EDA description
+        ├── contents_cooked.json            - Processed contents data
+        ├── contents_raw.json               - Raw contents data
+        ├── creator_cooked.json             - Processed creators data
+        └── creator_raw.json                - Raw creators data
+
     /DataPreprocessing
-     ├── preprocessing.ipynb    - Code for creators and contents data preprocessing & feature engineering
-    /Docs                   - All documents, including Google Drive files and other local ones
-     ├── GoogleDriveFiles   - Links to the Google Drive Folder
-     ├── Repo_Collab_Guide  - How to on branches
-     ├── ListOfCompetitors  - Yelp comparison
-     ├── 5打分维度           - 打分依据
+     ├── preprocessing.ipynb                - Code for creators and contents data preprocessing & feature 
+     
+    
+    /Docs                                   - All documents, including Google Drive files and other local ones
+     ├── GoogleDriveFiles                   - Links to the Google Drive Folder
+     ├── Repo_Collab_Guide                  - How to on branches
+     ├── ListOfCompetitors                  - Yelp comparison
+     ├── 5打分维度                           - 打分依据
      ├── 
-     └── mf_koc(py39)       - Virtual Environment config
+     └── mf_koc(py39)                       - Virtual Environment config
 
     /EDA
-     ├── RadarChart         - Function to plot radar chart
+     ├── RadarChart                         - Function to plot radar chart
      ├── creator_and_content_tables         - Creator and Content Tables
-     ├── day_count & week_count          - Function to plot interaction bar plot by time
-     ├── KOC_eda_stakeholder            - Function to plot keywords related plot / analysis after preprocessed data
+     ├── day_count & week_count             - Function to plot interaction bar plot by time
+     ├── KOC_eda_stakeholder                - Function to plot keywords related plot / analysis after preprocessed data
 
-    /Figs                   - All Figures
+    /Scoring
+     ├── dim1
+     ├── dim2
+     ├── dim3                               - 文本内容质量
+     ├── dim4
+     └── dim5
 
-    /Results                - All reports and results
+    /Figs                                   - All Figures
 
-    /src                    - Migrated repos from outside
+    /Results                                - All reports and results
+
+    /src                                    - Migrated repos from outside
