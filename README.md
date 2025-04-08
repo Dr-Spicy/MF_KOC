@@ -21,12 +21,12 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
 
     ├── KOC_raw4RAG                         - Raw creators and contents JSON with description to LLM
 
-     ├── raw                                - Raw creators and contents JSON files from MediaCrawler
+    ├── raw                                - Raw creators and contents JSON files from MediaCrawler
         ├── contents_total.json             - Simply combined contents data
         ├── creator_total.json              - Simply combined creator data
         ├── XHS_KOC_List - Sheet1.csv       - G-drive spreadsheet contains Xinhong data
 
-     └── processed                          - Combined and preprocessed based on the EDA description
+    └── processed                          - Combined and preprocessed based on the EDA description
         ├── contents_cooked.json            - Processed contents data
         ├── contents_raw.json               - Raw contents data
         ├── creator_cooked.json             - Processed creators data
