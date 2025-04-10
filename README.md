@@ -32,9 +32,9 @@ Please refer to this [yml file](./Docs/mf_koc(py39).yaml) to set up a new AutoGl
         ├── creator_cooked.json             - Processed creators data
         ├── creator_raw.json                - Raw creators data
         ├── creator_cooked_xh.json          - Processed creators data + 新红
-        ├── creator_cooked_xh_desc.md       - Data description of precessed creators data + 新红
-        ├── creator_cooked_desc.md          - Data description of precessed creator data
-        └── contents_cooked_desc.md         - Data description of precessed contents data
+        ├── creator_cooked_xh_desc.md       - Data description of processed creators data + 新红
+        ├── creator_cooked_desc.md          - Data description of processed creator data
+        └── contents_cooked_desc.md         - Data description of processed contents data
 
     /DataPreprocessing
      ├── preprocessing.ipynb                - Code for creators and contents data preprocessing & feature 
