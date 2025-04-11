@@ -203,6 +203,16 @@ class XHSMixedLanguageProcessor:
     def social_media_clean(self, text: str, strategy='demojize') -> str:
         """
         社交媒体文本清洗，主要针对小红书平台的特定格式和符号进行处理。
+        1. 移除话题标签（#）但保留关键词
+        2. 移除@提及, support 中英文复合用户名
+        3. 转换表情符号（可选：移除或转换为文本描述）
+        4. 处理小红书特有表情符号
+        5. 去除多余空格
+
+    Args:
+        text (str): 待清洗的文本。
+    Returns:
+        str: 清洗后的文本。
         """
         if not text:
             return ""
@@ -433,6 +443,15 @@ class XHSMixedLanguageProcessor:
         1. 快速分句处理
         2. 语言检测过滤需要翻译的句子
         3. 合并重组处理结果
+
+        Args:
+            text: 待处理文本
+            threshold: 中文占比阈值，低于该值则翻译
+            protected_terms: 保护的术语集合
+            enable_translation: 是否启用翻译
+
+        Returns:
+            str: 处理后的文本
         """
         if not enable_translation or not text:
             return text
@@ -506,6 +525,20 @@ class XHSMixedLanguageProcessor:
         """
         基于词频统计的中文语义清洗文本中的噪声词。
         通过并行处理加速清洗过程，支持自定义停用词和领域关键词。
+
+        Args:
+            texts: 待处理文本列表
+            freq_threshold: 词频阈值
+            doc_freq_threshold: 文档频率阈值
+            min_word_length: 最小词长度（过滤单字词）
+            custom_stopwords: 自定义停用词集合
+            domain_keywords: 领域关键词集合
+            return_noise_terms: 是否返回噪声词集合
+            verbose: 是否打印处理信息
+
+        Returns:
+            List[str]: 处理后的文本列表
+            Set[str]: 噪声词集合（如果return_noise_terms=True）
         """
         if not texts:
             return [] if not return_noise_terms else ([], set())
