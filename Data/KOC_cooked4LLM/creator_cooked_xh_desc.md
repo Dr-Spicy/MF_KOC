@@ -1,6 +1,6 @@
 # Final Dataset Overview: `creator_cooked_xh.json`
 
-This dataset provides a multidimensional view of creator performance by integrating detailed profile information with a variety of aggregated engagement and temporal metrics. Each row represents a unique creator and includes both static attributes and dynamic performance measures computed over different time windows. Data is combined from the rednote/xiaohongshu's database (1-45) and xinhong website (46-57).
+This dataset provides a multidimensional view of creator performance by integrating detailed profile information with a variety of aggregated engagement and temporal metrics. Each row represents a unique creator and includes both static attributes and dynamic performance measures computed over different time windows. Data is combined from the rednote/xiaohongshu's database (col:1-45) and xinhong website (col:46-57).
 
 ## Columns Description
 
