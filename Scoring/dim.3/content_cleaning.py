@@ -14,7 +14,7 @@
     if enable_translation and is_batch_large:
         text = self.language_optimize(text, protected_terms=self.protected_terms)
 
-    # 4. 语义清洗 (jieba中文分词, 根据TF-IDF去除噪声词, 并保护领域关键词）
+    # 4. 语义筛选 (jieba中文分词, 根据TF-IDF去除噪声词, 并保护领域关键词）
     text = self.chinese_semantic_clean([text])[0]
 
 - 使用方法:
@@ -36,7 +36,7 @@ A specialized class designed for processing mixed Chinese-English text from Xiao
     - Basic Cleaning: Remove HTML tags, URLs, and special symbols; convert full-width to half-width; normalize spaces.
     - Social Media Cleaning: Remove hashtags, @mentions, demojize emojis, and handle XHS-specific tags.
     - Language Optimization (using langid for language detection and deep_translator API for sentences with batch size > 100 and Chinese content < 50%):
-    - Semantic Cleaning: Use jieba for Chinese tokenization, remove noise words based on TF-IDF, and preserve domain-specific keywords.
+    - Semantic Filtering: Use jieba for Chinese tokenization, remove noise words based on TF-IDF, and preserve domain-specific keywords.
 
 - Usage
     - Single text processing: Class.process_text(text)
