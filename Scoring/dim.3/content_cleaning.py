@@ -19,10 +19,10 @@
 
 - 使用方法:
     - 单条文本处理: Class.process_text(text)
-    - 批量文本处理: Class.batch_process([text1, text2, ...]) # 文本数量>100提供翻译选项
+    - 批量文本处理: Class.batch_process([text1, text2, ...]) # 文本数量>100才提供翻译选项
     - 查看处理统计信息: Class.get_stats()
 
-- 处理的亮点：
+- 亮点：
     - 预编译正则表达式以提高效率
     - 批量处理待翻译内容, 并添加缓存以减少API调用
     - 使用ThreadPoolExecutor并行执行I/O密集型任务来提高批量处理性能
