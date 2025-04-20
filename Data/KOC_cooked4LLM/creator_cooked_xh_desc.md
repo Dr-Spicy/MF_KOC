@@ -230,7 +230,7 @@ This dataset provides a multidimensional view of creator performance by integrat
 
 
 58. **score3_content_quality**  
-     - *Description:* 旨在从多个维度综合衡量创作者内容的专业性、独特性、感染力和相关性。该指标通过整合四个关键维度的评分，为品牌识别优质内容创作者提供定量依据，确保投放资源能获得最佳营销效益。
+     - *Description:* 旨在从多个维度综合衡量创作者内容的专业性、独特性、感染力和相关性。该指标通过整合四个关键维度的评分，为品牌识别优质内容创作者提供定量依据，确保投放资源能获得最佳营销效益。每个维度的得分都经过了sigmoid函数的分布校正
      - *Type:* Float
 
     - A. **score3a_originality**

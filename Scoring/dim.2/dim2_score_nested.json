@@ -1,0 +1,911 @@
+[
+    {
+        "user_id": "576d3bde82ec3952ff40c5e1",
+        "score2_content_media": 79.29992686175285,
+        "component_scores": {
+            "score2a_media": 47.15957482748788,
+            "score2b_hot": 20.56098328195102,
+            "score2c_picture": 11.579368752313957
+        }
+    },
+    {
+        "user_id": "58b325ce50c4b442ae017a30",
+        "score2_content_media": 47.63378752569799,
+        "component_scores": {
+            "score2a_media": 19.340426797896463,
+            "score2b_hot": 20.818949394939494,
+            "score2c_picture": 7.474411332862036
+        }
+    },
+    {
+        "user_id": "5c0c067c0000000005022f0a",
+        "score2_content_media": 30.068935690878842,
+        "component_scores": {
+            "score2a_media": 9.063829258183905,
+            "score2b_hot": 9.647300469483568,
+            "score2c_picture": 11.35780596321137
+        }
+    },
+    {
+        "user_id": "5649379603eb842b7ed00477",
+        "score2_content_media": 35.84180087516939,
+        "component_scores": {
+            "score2a_media": 12.88298064050343,
+            "score2b_hot": 14.623681071657948,
+            "score2c_picture": 8.335139163008014
+        }
+    },
+    {
+        "user_id": "5d6a927e00000000010068b9",
+        "score2_content_media": 48.98521387302121,
+        "component_scores": {
+            "score2a_media": 20.21276516115145,
+            "score2b_hot": 18.360286549707602,
+            "score2c_picture": 10.412162162162161
+        }
+    },
+    {
+        "user_id": "56ada7e482ec39541becb6ff",
+        "score2_content_media": 15.232484594377523,
+        "component_scores": {
+            "score2a_media": 3.680850860222334,
+            "score2b_hot": 6.551140012845215,
+            "score2c_picture": 5.000493721309974
+        }
+    },
+    {
+        "user_id": "60c7988c0000000001005e11",
+        "score2_content_media": 31.530242173696642,
+        "component_scores": {
+            "score2a_media": 13.574468217922687,
+            "score2b_hot": 0.0,
+            "score2c_picture": 17.955773955773957
+        }
+    },
+    {
+        "user_id": "5f03c93d000000000100466e",
+        "score2_content_media": 40.786409512689126,
+        "component_scores": {
+            "score2a_media": 15.382978474250445,
+            "score2b_hot": 10.712494236975566,
+            "score2c_picture": 14.690936801463117
+        }
+    },
+    {
+        "user_id": "5801c70f6a6a697bad62b653",
+        "score2_content_media": 30.72077866275361,
+        "component_scores": {
+            "score2a_media": 11.457447665996431,
+            "score2b_hot": 11.296316929743112,
+            "score2c_picture": 7.967014067014066
+        }
+    },
+    {
+        "user_id": "5a700b5de8ac2b38e1053423",
+        "score2_content_media": 83.91115356866436,
+        "component_scores": {
+            "score2a_media": 45.5531901139641,
+            "score2b_hot": 22.057013856453366,
+            "score2c_picture": 16.300949598246895
+        }
+    },
+    {
+        "user_id": "592463636a6a696f6fa9c1c1",
+        "score2_content_media": 36.78635461968935,
+        "component_scores": {
+            "score2a_media": 11.968084235018962,
+            "score2b_hot": 17.544711111111113,
+            "score2c_picture": 7.2735592735592745
+        }
+    },
+    {
+        "user_id": "570b4b5a1c07df4cfd6ccbf0",
+        "score2_content_media": 22.853310718831032,
+        "component_scores": {
+            "score2a_media": 6.000000630775427,
+            "score2b_hot": 8.836643026004728,
+            "score2c_picture": 8.01666706205088
+        }
+    },
+    {
+        "user_id": "5ab249e04eacab0790fb78b3",
+        "score2_content_media": 27.008015998065446,
+        "component_scores": {
+            "score2a_media": 8.500000388724807,
+            "score2b_hot": 13.527548324294257,
+            "score2c_picture": 4.9804672850463785
+        }
+    },
+    {
+        "user_id": "663ab3fc0000000007005c31",
+        "score2_content_media": 27.325422259108024,
+        "component_scores": {
+            "score2a_media": 9.71276753081618,
+            "score2b_hot": 9.609273457466227,
+            "score2c_picture": 8.003381270825619
+        }
+    },
+    {
+        "user_id": "606c83060000000001002c85",
+        "score2_content_media": 35.96381113243216,
+        "component_scores": {
+            "score2a_media": 3.234043089012806,
+            "score2b_hot": 13.484594298245613,
+            "score2c_picture": 19.245173745173744
+        }
+    },
+    {
+        "user_id": "5a737fe211be1032dfeccbdf",
+        "score2_content_media": 29.693879456019456,
+        "component_scores": {
+            "score2a_media": 8.372340336049382,
+            "score2b_hot": 9.34849639983058,
+            "score2c_picture": 11.973042720139492
+        }
+    },
+    {
+        "user_id": "626ec8020000000021021067",
+        "score2_content_media": 23.456812857427707,
+        "component_scores": {
+            "score2a_media": 4.02127648071486,
+            "score2b_hot": 7.6726190476190474,
+            "score2c_picture": 11.762917329093801
+        }
+    },
+    {
+        "user_id": "5fa04c2c0000000001007566",
+        "score2_content_media": 21.406742905475618,
+        "component_scores": {
+            "score2a_media": 7.882978931043929,
+            "score2b_hot": 8.227665317139001,
+            "score2c_picture": 5.296098657292687
+        }
+    },
+    {
+        "user_id": "62f0659d000000001f015932",
+        "score2_content_media": 60.28245322287127,
+        "component_scores": {
+            "score2a_media": 28.978725241099912,
+            "score2b_hot": 12.490363436123348,
+            "score2c_picture": 18.81336454564801
+        }
+    },
+    {
+        "user_id": "623d476a000000001000b343",
+        "score2_content_media": 24.704135748625788,
+        "component_scores": {
+            "score2a_media": 8.351063691668383,
+            "score2b_hot": 5.273644727530077,
+            "score2c_picture": 11.079427329427329
+        }
+    },
+    {
+        "user_id": "564d4a9167bc65539cd768d4",
+        "score2_content_media": 24.226292859120196,
+        "component_scores": {
+            "score2a_media": 5.7872326309055575,
+            "score2b_hot": 13.756413398692809,
+            "score2c_picture": 4.682646829521829
+        }
+    },
+    {
+        "user_id": "5d34030d0000000011005892",
+        "score2_content_media": 50.07625584219677,
+        "component_scores": {
+            "score2a_media": 25.382982284385882,
+            "score2b_hot": 15.981470615628199,
+            "score2c_picture": 8.71180294218269
+        }
+    },
+    {
+        "user_id": "67865b1a000000000803eeb0",
+        "score2_content_media": 30.113449666280495,
+        "component_scores": {
+            "score2a_media": 0.24468089751172656,
+            "score2b_hot": 14.444444444444443,
+            "score2c_picture": 15.424324324324324
+        }
+    },
+    {
+        "user_id": "5530f8642e1d9365fa9a29fb",
+        "score2_content_media": 85.12161381891795,
+        "component_scores": {
+            "score2a_media": 52.22340288562537,
+            "score2b_hot": 25.96943369321654,
+            "score2c_picture": 6.928777240076042
+        }
+    },
+    {
+        "user_id": "5bd47767f16b990001e1072b",
+        "score2_content_media": 47.88856867625168,
+        "component_scores": {
+            "score2a_media": 24.63829923437185,
+            "score2b_hot": 16.05941997697179,
+            "score2c_picture": 7.190849464908041
+        }
+    },
+    {
+        "user_id": "57fdaead82ec3961690f6b93",
+        "score2_content_media": 90.17223707334456,
+        "component_scores": {
+            "score2a_media": 46.776594402985175,
+            "score2b_hot": 29.560695423647438,
+            "score2c_picture": 13.834947246711952
+        }
+    },
+    {
+        "user_id": "5ec7a678000000000100322e",
+        "score2_content_media": 41.551761686329066,
+        "component_scores": {
+            "score2a_media": 13.095746345874513,
+            "score2b_hot": 20.322438848271503,
+            "score2c_picture": 8.133576492183048
+        }
+    },
+    {
+        "user_id": "67845b1b000000000801f5d8",
+        "score2_content_media": 30.125427312346044,
+        "component_scores": {
+            "score2a_media": 1.329787501106236,
+            "score2b_hot": 15.628844444444441,
+            "score2c_picture": 13.166795366795366
+        }
+    },
+    {
+        "user_id": "5f8e26de000000000101de15",
+        "score2_content_media": 25.463152895755055,
+        "component_scores": {
+            "score2a_media": 5.531914404516567,
+            "score2b_hot": 12.334230769230768,
+            "score2c_picture": 7.597007722007722
+        }
+    },
+    {
+        "user_id": "595b8e775e87e737755bf1bd",
+        "score2_content_media": 90.7165909904102,
+        "component_scores": {
+            "score2a_media": 57.73402688673391,
+            "score2b_hot": 22.809369817578773,
+            "score2c_picture": 10.17319428609751
+        }
+    },
+    {
+        "user_id": "617961470000000002027fea",
+        "score2_content_media": 153.9153907185269,
+        "component_scores": {
+            "score2a_media": 123.04253716724087,
+            "score2b_hot": 14.721502199934674,
+            "score2c_picture": 16.15135135135135
+        }
+    },
+    {
+        "user_id": "5f5119d80000000001003189",
+        "score2_content_media": 159.8142006349044,
+        "component_scores": {
+            "score2a_media": 119.6914810871382,
+            "score2b_hot": 28.098588273634935,
+            "score2c_picture": 12.024131274131273
+        }
+    },
+    {
+        "user_id": "593a946750c4b410410c3805",
+        "score2_content_media": 107.71283035709686,
+        "component_scores": {
+            "score2a_media": 69.3297667351821,
+            "score2b_hot": 26.126226279985676,
+            "score2c_picture": 12.256837341929083
+        }
+    },
+    {
+        "user_id": "5d6c539f000000000101bbfd",
+        "score2_content_media": 32.316710107005164,
+        "component_scores": {
+            "score2a_media": 14.510640098529707,
+            "score2b_hot": 8.999401270772239,
+            "score2c_picture": 8.80666873770322
+        }
+    },
+    {
+        "user_id": "6785e363000000000801d306",
+        "score2_content_media": 44.63780864194375,
+        "component_scores": {
+            "score2a_media": 0.24468089881600918,
+            "score2b_hot": 17.761111111111106,
+            "score2c_picture": 26.632016632016633
+        }
+    },
+    {
+        "user_id": "5cfc717b000000000501b4de",
+        "score2_content_media": 19.925921204705034,
+        "component_scores": {
+            "score2a_media": 3.7127659238706725,
+            "score2b_hot": 9.30924864692773,
+            "score2c_picture": 6.903906633906633
+        }
+    },
+    {
+        "user_id": "5df4c6bb000000000100b24b",
+        "score2_content_media": 17.20163882966693,
+        "component_scores": {
+            "score2a_media": 0.43617026541787735,
+            "score2b_hot": 5.826558265582656,
+            "score2c_picture": 10.938910298666396
+        }
+    },
+    {
+        "user_id": "5cf39f8e000000001701f516",
+        "score2_content_media": 33.82036578594558,
+        "component_scores": {
+            "score2a_media": 10.042553333662793,
+            "score2b_hot": 13.117902542372882,
+            "score2c_picture": 10.65990990990991
+        }
+    },
+    {
+        "user_id": "57f5f8b06a6a6963e65ffc89",
+        "score2_content_media": 65.18987701096769,
+        "component_scores": {
+            "score2a_media": 30.585107921227138,
+            "score2b_hot": 27.1272,
+            "score2c_picture": 7.4775690897405545
+        }
+    },
+    {
+        "user_id": "591cf96250c4b428b4eff077",
+        "score2_content_media": 67.45290555727999,
+        "component_scores": {
+            "score2a_media": 29.946805284732125,
+            "score2b_hot": 28.704442470890072,
+            "score2c_picture": 8.801657801657802
+        }
+    },
+    {
+        "user_id": "5fdc406c000000000100ad2e",
+        "score2_content_media": 68.26020591320678,
+        "component_scores": {
+            "score2a_media": 21.127661915237802,
+            "score2b_hot": 34.449278281302455,
+            "score2c_picture": 12.683265716666522
+        }
+    },
+    {
+        "user_id": "56b2e6dae4251d7f46ab14e3",
+        "score2_content_media": 56.49260110345938,
+        "component_scores": {
+            "score2a_media": 22.414892439590673,
+            "score2b_hot": 28.24875283446712,
+            "score2c_picture": 5.828955829401586
+        }
+    },
+    {
+        "user_id": "5aa1bb384eacab56033470ce",
+        "score2_content_media": 31.014914340362214,
+        "component_scores": {
+            "score2a_media": 8.914891700943025,
+            "score2b_hot": 14.90453460620525,
+            "score2c_picture": 7.1954880332139375
+        }
+    },
+    {
+        "user_id": "625cc665000000001000e71f",
+        "score2_content_media": 50.78689379117823,
+        "component_scores": {
+            "score2a_media": 15.65957745044725,
+            "score2b_hot": 14.527777777777779,
+            "score2c_picture": 20.599538562953196
+        }
+    },
+    {
+        "user_id": "568b2f486a6a6962f22d07ba",
+        "score2_content_media": 17.783484089002204,
+        "component_scores": {
+            "score2a_media": 1.712766114930573,
+            "score2b_hot": 5.4833333333333325,
+            "score2c_picture": 10.5873846407383
+        }
+    },
+    {
+        "user_id": "5c64384000000000110164ad",
+        "score2_content_media": 29.440432114344496,
+        "component_scores": {
+            "score2a_media": 5.510638034550419,
+            "score2b_hot": 16.486422136422135,
+            "score2c_picture": 7.443371943371942
+        }
+    },
+    {
+        "user_id": "5d72c2a60000000001019168",
+        "score2_content_media": 33.874117500044946,
+        "component_scores": {
+            "score2a_media": 5.776596518131701,
+            "score2b_hot": 13.678698588090853,
+            "score2c_picture": 14.418822393822392
+        }
+    },
+    {
+        "user_id": "5aa0cade11be1046ae887e60",
+        "score2_content_media": 60.29426539821369,
+        "component_scores": {
+            "score2a_media": 30.170212654619345,
+            "score2b_hot": 19.513105312646918,
+            "score2c_picture": 10.610947430947428
+        }
+    },
+    {
+        "user_id": "55f2f7e3f5a2635bd2fac7b5",
+        "score2_content_media": 107.69838778268868,
+        "component_scores": {
+            "score2a_media": 64.57446140985788,
+            "score2b_hot": 28.54534779425224,
+            "score2c_picture": 14.578578578578579
+        }
+    },
+    {
+        "user_id": "5b67b542a559a50001e1ff09",
+        "score2_content_media": 67.7572601040225,
+        "component_scores": {
+            "score2a_media": 42.478722087536674,
+            "score2b_hot": 14.629029969112612,
+            "score2c_picture": 10.649508047373216
+        }
+    },
+    {
+        "user_id": "55481451b203d97e86008c02",
+        "score2_content_media": 83.3459687555701,
+        "component_scores": {
+            "score2a_media": 50.0,
+            "score2b_hot": 26.19879669030733,
+            "score2c_picture": 7.147172065262764
+        }
+    },
+    {
+        "user_id": "5f5888a8000000000101e50d",
+        "score2_content_media": 57.986560258029606,
+        "component_scores": {
+            "score2a_media": 37.28723419605465,
+            "score2b_hot": 11.933701061974956,
+            "score2c_picture": 8.765625
+        }
+    },
+    {
+        "user_id": "5b778c2d5b95340001d6de60",
+        "score2_content_media": 30.137796282279965,
+        "component_scores": {
+            "score2a_media": 4.478723306831414,
+            "score2b_hot": 17.437239377144365,
+            "score2c_picture": 8.221833598304185
+        }
+    },
+    {
+        "user_id": "5a6ada44db2e6012444e4a39",
+        "score2_content_media": 66.39400313775647,
+        "component_scores": {
+            "score2a_media": 22.542556975603556,
+            "score2b_hot": 26.657511404750664,
+            "score2c_picture": 17.19393475740225
+        }
+    },
+    {
+        "user_id": "5994315250c4b44ce63f0df6",
+        "score2_content_media": 35.39582480675112,
+        "component_scores": {
+            "score2a_media": 13.021277540065457,
+            "score2b_hot": 11.253308823529412,
+            "score2c_picture": 11.121238443156251
+        }
+    },
+    {
+        "user_id": "6349a37f000000001802bbed",
+        "score2_content_media": 24.482897582941227,
+        "component_scores": {
+            "score2a_media": 6.617020971164297,
+            "score2b_hot": 11.593149339049662,
+            "score2c_picture": 6.272727272727272
+        }
+    },
+    {
+        "user_id": "613f2b6a000000000201f3ba",
+        "score2_content_media": 15.440659781129504,
+        "component_scores": {
+            "score2a_media": 2.393617291831696,
+            "score2b_hot": 9.906444444444444,
+            "score2c_picture": 3.1405980448533644
+        }
+    },
+    {
+        "user_id": "5859b26f6a6a6967855d7c65",
+        "score2_content_media": 67.03642245342444,
+        "component_scores": {
+            "score2a_media": 24.372337471435664,
+            "score2b_hot": 30.189693971579608,
+            "score2c_picture": 12.47439101040916
+        }
+    },
+    {
+        "user_id": "627d9846000000002102336f",
+        "score2_content_media": 51.261727561148064,
+        "component_scores": {
+            "score2a_media": 32.40425995505931,
+            "score2b_hot": 13.311603560224702,
+            "score2c_picture": 5.545864045864047
+        }
+    },
+    {
+        "user_id": "5ab3172c11be105422211c84",
+        "score2_content_media": 35.4049782664739,
+        "component_scores": {
+            "score2a_media": 13.904255579953581,
+            "score2b_hot": 15.082453455751082,
+            "score2c_picture": 6.418269230769232
+        }
+    },
+    {
+        "user_id": "59417dd15e87e7122b80b498",
+        "score2_content_media": 29.887509552774038,
+        "component_scores": {
+            "score2a_media": 5.702128093791105,
+            "score2b_hot": 13.990111940298508,
+            "score2c_picture": 10.195269518684423
+        }
+    },
+    {
+        "user_id": "5a74dca911be1032569e20df",
+        "score2_content_media": 10.195371417658263,
+        "component_scores": {
+            "score2a_media": 2.553191552440424,
+            "score2b_hot": 1.9005555555555556,
+            "score2c_picture": 5.741624309662283
+        }
+    },
+    {
+        "user_id": "5aa34d334eacab095adb82e3",
+        "score2_content_media": 40.609372919576955,
+        "component_scores": {
+            "score2a_media": 9.861703162441188,
+            "score2b_hot": 11.440237324703341,
+            "score2c_picture": 19.307432432432428
+        }
+    },
+    {
+        "user_id": "558a4a065894460336de85bf",
+        "score2_content_media": 84.12651713437822,
+        "component_scores": {
+            "score2a_media": 27.468085523971496,
+            "score2b_hot": 47.623455116619326,
+            "score2c_picture": 9.0349764937874
+        }
+    },
+    {
+        "user_id": "5bf0eea1da9ae10001cfd0a1",
+        "score2_content_media": 37.18380490616741,
+        "component_scores": {
+            "score2a_media": 13.989359727691816,
+            "score2b_hot": 14.731896915927333,
+            "score2c_picture": 8.462548262548262
+        }
+    },
+    {
+        "user_id": "5afe57874eacab6bff64b75b",
+        "score2_content_media": 41.48696542560009,
+        "component_scores": {
+            "score2a_media": 12.24467900258323,
+            "score2b_hot": 20.078805869292403,
+            "score2c_picture": 9.163480553724456
+        }
+    },
+    {
+        "user_id": "5cf3d4cd00000000100324a0",
+        "score2_content_media": 46.53701289839064,
+        "component_scores": {
+            "score2a_media": 28.702129647921765,
+            "score2b_hot": 8.340756527468908,
+            "score2c_picture": 9.494126722999962
+        }
+    },
+    {
+        "user_id": "61476c9f0000000002020845",
+        "score2_content_media": 160.6791051881084,
+        "component_scores": {
+            "score2a_media": 98.04256115041578,
+            "score2b_hot": 50.041015625,
+            "score2c_picture": 12.59552841269259
+        }
+    },
+    {
+        "user_id": "589f2a696a6a69228d063c80",
+        "score2_content_media": 34.338456956567825,
+        "component_scores": {
+            "score2a_media": 13.755321148025988,
+            "score2b_hot": 9.047860273266306,
+            "score2c_picture": 11.535275535275535
+        }
+    },
+    {
+        "user_id": "60e859f1000000000100b675",
+        "score2_content_media": 17.999860216229457,
+        "component_scores": {
+            "score2a_media": 0.6170213428733445,
+            "score2b_hot": 5.659865900383142,
+            "score2c_picture": 11.722972972972972
+        }
+    },
+    {
+        "user_id": "6303b99d0000000012001f58",
+        "score2_content_media": 117.0963408291301,
+        "component_scores": {
+            "score2a_media": 64.94681473667718,
+            "score2b_hot": 46.4406552006552,
+            "score2c_picture": 5.708870891797721
+        }
+    },
+    {
+        "user_id": "5f1880d8000000000101d503",
+        "score2_content_media": 40.98449971098213,
+        "component_scores": {
+            "score2a_media": 22.351064822699133,
+            "score2b_hot": 16.01386112433233,
+            "score2c_picture": 2.619573763950664
+        }
+    },
+    {
+        "user_id": "63288a0200000000230275fd",
+        "score2_content_media": 30.32711579224692,
+        "component_scores": {
+            "score2a_media": 8.414894096784078,
+            "score2b_hot": 7.068471695462845,
+            "score2c_picture": 14.84375
+        }
+    },
+    {
+        "user_id": "57a142546a6a695a454d664e",
+        "score2_content_media": 62.72397271847659,
+        "component_scores": {
+            "score2a_media": 28.46808046618181,
+            "score2b_hot": 23.062051569506725,
+            "score2c_picture": 11.19384068278805
+        }
+    },
+    {
+        "user_id": "6110a0940000000001002eec",
+        "score2_content_media": 42.95290270258241,
+        "component_scores": {
+            "score2a_media": 15.021276686047631,
+            "score2b_hot": 15.893708687440979,
+            "score2c_picture": 12.0379173290938
+        }
+    },
+    {
+        "user_id": "5eef790e0000000001002090",
+        "score2_content_media": 77.12853117925627,
+        "component_scores": {
+            "score2a_media": 36.829789163470096,
+            "score2b_hot": 26.884016945888696,
+            "score2c_picture": 13.414725069897484
+        }
+    },
+    {
+        "user_id": "6104251600000000010052ab",
+        "score2_content_media": 20.993623837194384,
+        "component_scores": {
+            "score2a_media": 2.180851363698072,
+            "score2b_hot": 4.887750677506776,
+            "score2c_picture": 13.925021795989538
+        }
+    },
+    {
+        "user_id": "5b7ba8c2e6c06200012a5977",
+        "score2_content_media": 49.14633944534562,
+        "component_scores": {
+            "score2a_media": 11.329788634690187,
+            "score2b_hot": 15.464647887323942,
+            "score2c_picture": 22.35190292333149
+        }
+    },
+    {
+        "user_id": "676f0595000000001801da5d",
+        "score2_content_media": 18.6171139809109,
+        "component_scores": {
+            "score2a_media": 0.2872341010310221,
+            "score2b_hot": 5.005555555555555,
+            "score2c_picture": 13.324324324324323
+        }
+    },
+    {
+        "user_id": "5e1d86f90000000001006abc",
+        "score2_content_media": 87.6317439809527,
+        "component_scores": {
+            "score2a_media": 39.39361624810084,
+            "score2b_hot": 35.68354037267081,
+            "score2c_picture": 12.554587360181044
+        }
+    },
+    {
+        "user_id": "5f3a3aa5000000000101e9ac",
+        "score2_content_media": 32.80788838760586,
+        "component_scores": {
+            "score2a_media": 9.680852465569929,
+            "score2b_hot": 14.559090354090355,
+            "score2c_picture": 8.567945567945568
+        }
+    },
+    {
+        "user_id": "585dce396a6a69308e6d580d",
+        "score2_content_media": 40.970729054248835,
+        "component_scores": {
+            "score2a_media": 17.08510903551778,
+            "score2b_hot": 13.141687422166875,
+            "score2c_picture": 10.743932596564177
+        }
+    },
+    {
+        "user_id": "556f1983f5a26347140b104b",
+        "score2_content_media": 83.35850218348035,
+        "component_scores": {
+            "score2a_media": 53.45745147819083,
+            "score2b_hot": 25.318232172470978,
+            "score2c_picture": 4.582818532818533
+        }
+    },
+    {
+        "user_id": "57ffbca35e87e76f746d9a64",
+        "score2_content_media": 44.88718873374913,
+        "component_scores": {
+            "score2a_media": 19.978722280075015,
+            "score2b_hot": 15.608466453674119,
+            "score2c_picture": 9.299999999999999
+        }
+    },
+    {
+        "user_id": "576e5cc95e87e72f9801db4d",
+        "score2_content_media": 25.43007583558593,
+        "component_scores": {
+            "score2a_media": 8.659574368209467,
+            "score2b_hot": 11.490288015288014,
+            "score2c_picture": 5.280213452088452
+        }
+    },
+    {
+        "user_id": "5ee6752c000000000101dc73",
+        "score2_content_media": 82.18078377932797,
+        "component_scores": {
+            "score2a_media": 63.085102961303136,
+            "score2b_hot": 7.626147648491663,
+            "score2c_picture": 11.469533169533168
+        }
+    },
+    {
+        "user_id": "580c368650c4b44811e07ff8",
+        "score2_content_media": 38.467939060156375,
+        "component_scores": {
+            "score2a_media": 13.18085270018866,
+            "score2b_hot": 17.294229217110573,
+            "score2c_picture": 7.992857142857143
+        }
+    },
+    {
+        "user_id": "5deef4710000000001006a73",
+        "score2_content_media": 32.37701400704008,
+        "component_scores": {
+            "score2a_media": 15.127660926382173,
+            "score2b_hot": 11.763185654008437,
+            "score2c_picture": 5.486167426649473
+        }
+    },
+    {
+        "user_id": "651b72c60000000024016c70",
+        "score2_content_media": 37.596132244604924,
+        "component_scores": {
+            "score2a_media": 15.840428264574205,
+            "score2b_hot": 14.596683083351989,
+            "score2c_picture": 7.159020896678728
+        }
+    },
+    {
+        "user_id": "5dfd27da0000000001009aae",
+        "score2_content_media": 32.975517199272915,
+        "component_scores": {
+            "score2a_media": 8.978722833817413,
+            "score2b_hot": 16.496794365455504,
+            "score2c_picture": 7.5
+        }
+    },
+    {
+        "user_id": "5bcd24861193dc000127b483",
+        "score2_content_media": 41.87431974833077,
+        "component_scores": {
+            "score2a_media": 20.787234957169375,
+            "score2b_hot": 15.40793813260548,
+            "score2c_picture": 5.679146658555913
+        }
+    },
+    {
+        "user_id": "5a7b0ca44eacab082944e6e3",
+        "score2_content_media": 76.09890569820665,
+        "component_scores": {
+            "score2a_media": 30.776595979189732,
+            "score2b_hot": 30.497830011137992,
+            "score2c_picture": 14.824479707878918
+        }
+    },
+    {
+        "user_id": "5d01cb140000000017003df6",
+        "score2_content_media": 17.945782601843376,
+        "component_scores": {
+            "score2a_media": 5.765957027836768,
+            "score2b_hot": 0.0,
+            "score2c_picture": 12.179825574006609
+        }
+    },
+    {
+        "user_id": "6613fa0f000000000303117f",
+        "score2_content_media": 22.738303254561337,
+        "component_scores": {
+            "score2a_media": 1.904255610137419,
+            "score2b_hot": 10.833054003724396,
+            "score2c_picture": 10.000993640699525
+        }
+    },
+    {
+        "user_id": "615b505c000000000201f7b8",
+        "score2_content_media": 28.83960316660202,
+        "component_scores": {
+            "score2a_media": 7.372339799338654,
+            "score2b_hot": 8.818614718614718,
+            "score2c_picture": 12.64864864864865
+        }
+    },
+    {
+        "user_id": "5b6ca1b7e44bfa0001a013e6",
+        "score2_content_media": 29.27298861641202,
+        "component_scores": {
+            "score2a_media": 5.712766476716103,
+            "score2b_hot": 3.6756672873991305,
+            "score2c_picture": 19.884554852296787
+        }
+    },
+    {
+        "user_id": "5a5bf1414eacab4087b808c7",
+        "score2_content_media": 37.830710538109415,
+        "component_scores": {
+            "score2a_media": 11.670212685724605,
+            "score2b_hot": 12.828978020864984,
+            "score2c_picture": 13.331519831519829
+        }
+    },
+    {
+        "user_id": "621a0927000000001000f950",
+        "score2_content_media": 63.049909512412015,
+        "component_scores": {
+            "score2a_media": 25.159575817194597,
+            "score2b_hot": 20.42006342494715,
+            "score2c_picture": 17.47027027027027
+        }
+    },
+    {
+        "user_id": "5c4be6f500000000100050c6",
+        "score2_content_media": 80.83871302201202,
+        "component_scores": {
+            "score2a_media": 45.59574801185864,
+            "score2b_hot": 22.160140249909265,
+            "score2c_picture": 13.082824760244113
+        }
+    },
+    {
+        "user_id": "587623ba6a6a691cffba0875",
+        "score2_content_media": 32.86599978809322,
+        "component_scores": {
+            "score2a_media": 14.87234178466373,
+            "score2b_hot": 6.450059608965188,
+            "score2c_picture": 11.5435983944643
+        }
+    },
+    {
+        "user_id": "57edc02550c4b47c9e876daf",
+        "score2_content_media": 56.753493496547875,
+        "component_scores": {
+            "score2a_media": 25.595745955551056,
+            "score2b_hot": 18.62091299528955,
+            "score2c_picture": 12.536834545707267
+        }
+    }
+]
