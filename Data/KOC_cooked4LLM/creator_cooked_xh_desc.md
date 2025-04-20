@@ -229,4 +229,22 @@ This dataset provides a multidimensional view of creator performance by integrat
      - *Type:* string.
 
 
+58. **score3_content_quality**  
+     - *Description:* 旨在从多个维度综合衡量创作者内容的专业性、独特性、感染力和相关性。该指标通过整合四个关键维度的评分，为品牌识别优质内容创作者提供定量依据，确保投放资源能获得最佳营销效益。
+     - *Type:* Float
 
+    - A. **score3a_originality**
+        - *Description:* 基于同自身内容(内部)和其他创作者内容(外部)比较后, 旨在定量评估创作者产出差异化内容的能力
+        - *Type:* Float
+
+    - B. **score3b_vertical**
+        - *Description:* 通过与既定的目标领域集合对比, 定量分析创作者的内容专注度，有助于发现在目标领域持续有专业深度贡献的创作者
+        - *Type:* Float
+    
+    - C. **score3c_sentiment**
+        - *Description:* 通过NLP技术量化笔记中的情感特征，旨在识别那些能够传递丰富、真实情感体验，从而与受众产生深度共鸣的内容创作者
+        - *Type:* Float
+
+    - D. **score3d_keyword**
+        - *Description:* 通过模糊文本匹配技术，识别那些持续产出与目标品牌/产品高度相关内容的创作者，确保推荐的KOC真正聚焦于特定主题
+        - *Type:* Float
