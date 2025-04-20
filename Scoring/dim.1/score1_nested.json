@@ -1,920 +1,920 @@
 [
     {
         "user_id": "576d3bde82ec3952ff40c5e1",
-        "score1_account_influence": 78.4999,
+        "score1_account_influence": 81.9952,
         "component_scores": {
-            "score1a_efficiency": 49.9999,
+            "score1a_efficiency": 49.2352,
             "score1b_quality": 25.5,
-            "score1c_activity": 3.0
+            "score1c_activity": 7.26
         }
     },
     {
         "user_id": "58b325ce50c4b442ae017a30",
-        "score1_account_influence": 86.1566,
+        "score1_account_influence": 90.2996,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.983,
             "score1b_quality": 27.1566,
-            "score1c_activity": 9.0
+            "score1c_activity": 13.16
         }
     },
     {
         "user_id": "5c0c067c0000000005022f0a",
-        "score1_account_influence": 75.9003,
+        "score1_account_influence": 45.8634,
         "component_scores": {
-            "score1a_efficiency": 41.7568,
+            "score1a_efficiency": 10.9499,
             "score1b_quality": 27.6135,
-            "score1c_activity": 6.53
+            "score1c_activity": 7.3
         }
     },
     {
         "user_id": "5649379603eb842b7ed00477",
-        "score1_account_influence": 88.6999,
+        "score1_account_influence": 89.3772,
         "component_scores": {
-            "score1a_efficiency": 49.9999,
+            "score1a_efficiency": 49.3372,
+            "score1b_quality": 25.5,
+            "score1c_activity": 14.54
+        }
+    },
+    {
+        "user_id": "5d6a927e00000000010068b9",
+        "score1_account_influence": 60.7331,
+        "component_scores": {
+            "score1a_efficiency": 29.3454,
+            "score1b_quality": 23.6377,
+            "score1c_activity": 7.75
+        }
+    },
+    {
+        "user_id": "56ada7e482ec39541becb6ff",
+        "score1_account_influence": 51.5934,
+        "component_scores": {
+            "score1a_efficiency": 11.7794,
+            "score1b_quality": 25.384,
+            "score1c_activity": 14.43
+        }
+    },
+    {
+        "user_id": "60c7988c0000000001005e11",
+        "score1_account_influence": 81.5643,
+        "component_scores": {
+            "score1a_efficiency": 35.0833,
+            "score1b_quality": 28.601,
+            "score1c_activity": 17.88
+        }
+    },
+    {
+        "user_id": "5f03c93d000000000100466e",
+        "score1_account_influence": 75.6881,
+        "component_scores": {
+            "score1a_efficiency": 38.5381,
+            "score1b_quality": 25.5,
+            "score1c_activity": 11.65
+        }
+    },
+    {
+        "user_id": "5801c70f6a6a697bad62b653",
+        "score1_account_influence": 84.3074,
+        "component_scores": {
+            "score1a_efficiency": 44.8189,
+            "score1b_quality": 29.3485,
+            "score1c_activity": 10.14
+        }
+    },
+    {
+        "user_id": "5a700b5de8ac2b38e1053423",
+        "score1_account_influence": 65.7786,
+        "component_scores": {
+            "score1a_efficiency": 35.2686,
+            "score1b_quality": 25.5,
+            "score1c_activity": 5.01
+        }
+    },
+    {
+        "user_id": "592463636a6a696f6fa9c1c1",
+        "score1_account_influence": 30.0496,
+        "component_scores": {
+            "score1a_efficiency": 4.1019,
+            "score1b_quality": 25.9077,
+            "score1c_activity": 0.04
+        }
+    },
+    {
+        "user_id": "570b4b5a1c07df4cfd6ccbf0",
+        "score1_account_influence": 77.6714,
+        "component_scores": {
+            "score1a_efficiency": 32.1714,
+            "score1b_quality": 25.5,
+            "score1c_activity": 20
+        }
+    },
+    {
+        "user_id": "5ab249e04eacab0790fb78b3",
+        "score1_account_influence": 38.235,
+        "component_scores": {
+            "score1a_efficiency": 9.1623,
+            "score1b_quality": 27.6927,
+            "score1c_activity": 1.38
+        }
+    },
+    {
+        "user_id": "663ab3fc0000000007005c31",
+        "score1_account_influence": 98.9276,
+        "component_scores": {
+            "score1a_efficiency": 49.9547,
+            "score1b_quality": 28.9729,
+            "score1c_activity": 20
+        }
+    },
+    {
+        "user_id": "606c83060000000001002c85",
+        "score1_account_influence": 69.5197,
+        "component_scores": {
+            "score1a_efficiency": 40.3641,
+            "score1b_quality": 22.9456,
+            "score1c_activity": 6.21
+        }
+    },
+    {
+        "user_id": "5a737fe211be1032dfeccbdf",
+        "score1_account_influence": 53.6351,
+        "component_scores": {
+            "score1a_efficiency": 19.6337,
+            "score1b_quality": 28.8314,
+            "score1c_activity": 5.17
+        }
+    },
+    {
+        "user_id": "626ec8020000000021021067",
+        "score1_account_influence": 31.6156,
+        "component_scores": {
+            "score1a_efficiency": 3.9809,
+            "score1b_quality": 26.0747,
+            "score1c_activity": 1.56
+        }
+    },
+    {
+        "user_id": "5fa04c2c0000000001007566",
+        "score1_account_influence": 45.0123,
+        "component_scores": {
+            "score1a_efficiency": 11.9999,
+            "score1b_quality": 29.7024,
+            "score1c_activity": 3.31
+        }
+    },
+    {
+        "user_id": "62f0659d000000001f015932",
+        "score1_account_influence": 67.4829,
+        "component_scores": {
+            "score1a_efficiency": 28.7529,
+            "score1b_quality": 25.5,
+            "score1c_activity": 13.23
+        }
+    },
+    {
+        "user_id": "623d476a000000001000b343",
+        "score1_account_influence": 51.3984,
+        "component_scores": {
+            "score1a_efficiency": 7.7379,
+            "score1b_quality": 29.2205,
+            "score1c_activity": 14.44
+        }
+    },
+    {
+        "user_id": "564d4a9167bc65539cd768d4",
+        "score1_account_influence": 27.9504,
+        "component_scores": {
+            "score1a_efficiency": 2.4404,
+            "score1b_quality": 25.5,
+            "score1c_activity": 0.01
+        }
+    },
+    {
+        "user_id": "5d34030d0000000011005892",
+        "score1_account_influence": 84.741,
+        "component_scores": {
+            "score1a_efficiency": 49.9894,
+            "score1b_quality": 24.0916,
+            "score1c_activity": 10.66
+        }
+    },
+    {
+        "user_id": "67865b1a000000000803eeb0",
+        "score1_account_influence": 91.1804,
+        "component_scores": {
+            "score1a_efficiency": 49.9004,
+            "score1b_quality": 25.5,
+            "score1c_activity": 15.78
+        }
+    },
+    {
+        "user_id": "5530f8642e1d9365fa9a29fb",
+        "score1_account_influence": 84.2391,
+        "component_scores": {
+            "score1a_efficiency": 49.4091,
+            "score1b_quality": 25.5,
+            "score1c_activity": 9.33
+        }
+    },
+    {
+        "user_id": "5bd47767f16b990001e1072b",
+        "score1_account_influence": 91.4945,
+        "component_scores": {
+            "score1a_efficiency": 49.9945,
+            "score1b_quality": 25.5,
+            "score1c_activity": 16.0
+        }
+    },
+    {
+        "user_id": "57fdaead82ec3961690f6b93",
+        "score1_account_influence": 86.6977,
+        "component_scores": {
+            "score1a_efficiency": 49.2064,
+            "score1b_quality": 27.9913,
+            "score1c_activity": 9.5
+        }
+    },
+    {
+        "user_id": "5ec7a678000000000100322e",
+        "score1_account_influence": 80.083,
+        "component_scores": {
+            "score1a_efficiency": 49.4366,
+            "score1b_quality": 29.7864,
+            "score1c_activity": 0.86
+        }
+    },
+    {
+        "user_id": "67845b1b000000000801f5d8",
+        "score1_account_influence": 93.2199,
+        "component_scores": {
+            "score1a_efficiency": 49.9815,
+            "score1b_quality": 23.2384,
+            "score1c_activity": 20
+        }
+    },
+    {
+        "user_id": "5f8e26de000000000101de15",
+        "score1_account_influence": 39.4424,
+        "component_scores": {
+            "score1a_efficiency": 6.5987,
+            "score1b_quality": 28.6237,
+            "score1c_activity": 4.22
+        }
+    },
+    {
+        "user_id": "595b8e775e87e737755bf1bd",
+        "score1_account_influence": 42.7765,
+        "component_scores": {
+            "score1a_efficiency": 15.2565,
+            "score1b_quality": 25.5,
+            "score1c_activity": 2.02
+        }
+    },
+    {
+        "user_id": "617961470000000002027fea",
+        "score1_account_influence": 91.7522,
+        "component_scores": {
+            "score1a_efficiency": 49.9822,
+            "score1b_quality": 25.5,
+            "score1c_activity": 16.27
+        }
+    },
+    {
+        "user_id": "5f5119d80000000001003189",
+        "score1_account_influence": 77.4466,
+        "component_scores": {
+            "score1a_efficiency": 49.4066,
+            "score1b_quality": 25.5,
+            "score1c_activity": 2.54
+        }
+    },
+    {
+        "user_id": "593a946750c4b410410c3805",
+        "score1_account_influence": 32.4662,
+        "component_scores": {
+            "score1a_efficiency": 6.7762,
+            "score1b_quality": 25.5,
+            "score1c_activity": 0.19
+        }
+    },
+    {
+        "user_id": "5d6c539f000000000101bbfd",
+        "score1_account_influence": 94.04,
+        "component_scores": {
+            "score1a_efficiency": 48.4851,
+            "score1b_quality": 27.2749,
+            "score1c_activity": 18.28
+        }
+    },
+    {
+        "user_id": "6785e363000000000801d306",
+        "score1_account_influence": 86.9632,
+        "component_scores": {
+            "score1a_efficiency": 44.7027,
+            "score1b_quality": 22.2605,
+            "score1c_activity": 20
+        }
+    },
+    {
+        "user_id": "5cfc717b000000000501b4de",
+        "score1_account_influence": 53.3603,
+        "component_scores": {
+            "score1a_efficiency": 19.5202,
+            "score1b_quality": 29.1201,
+            "score1c_activity": 4.72
+        }
+    },
+    {
+        "user_id": "5df4c6bb000000000100b24b",
+        "score1_account_influence": 36.3233,
+        "component_scores": {
+            "score1a_efficiency": 4.3169,
+            "score1b_quality": 29.2764,
+            "score1c_activity": 2.73
+        }
+    },
+    {
+        "user_id": "5cf39f8e000000001701f516",
+        "score1_account_influence": 49.9566,
+        "component_scores": {
+            "score1a_efficiency": 19.5951,
+            "score1b_quality": 28.0515,
+            "score1c_activity": 2.31
+        }
+    },
+    {
+        "user_id": "57f5f8b06a6a6963e65ffc89",
+        "score1_account_influence": 79.3056,
+        "component_scores": {
+            "score1a_efficiency": 48.4275,
+            "score1b_quality": 25.3681,
+            "score1c_activity": 5.51
+        }
+    },
+    {
+        "user_id": "591cf96250c4b428b4eff077",
+        "score1_account_influence": 72.1181,
+        "component_scores": {
+            "score1a_efficiency": 45.4241,
+            "score1b_quality": 25.004,
+            "score1c_activity": 1.69
+        }
+    },
+    {
+        "user_id": "5fdc406c000000000100ad2e",
+        "score1_account_influence": 99.9993,
+        "component_scores": {
+            "score1a_efficiency": 50.0,
+            "score1b_quality": 29.9993,
+            "score1c_activity": 20
+        }
+    },
+    {
+        "user_id": "56b2e6dae4251d7f46ab14e3",
+        "score1_account_influence": 72.9154,
+        "component_scores": {
+            "score1a_efficiency": 33.9712,
+            "score1b_quality": 29.2842,
+            "score1c_activity": 9.66
+        }
+    },
+    {
+        "user_id": "5aa1bb384eacab56033470ce",
+        "score1_account_influence": 30.3025,
+        "component_scores": {
+            "score1a_efficiency": 2.4682,
+            "score1b_quality": 26.0743,
+            "score1c_activity": 1.76
+        }
+    },
+    {
+        "user_id": "625cc665000000001000e71f",
+        "score1_account_influence": 95.8853,
+        "component_scores": {
+            "score1a_efficiency": 50.0,
+            "score1b_quality": 27.8853,
+            "score1c_activity": 18.0
+        }
+    },
+    {
+        "user_id": "568b2f486a6a6962f22d07ba",
+        "score1_account_influence": 69.4735,
+        "component_scores": {
+            "score1a_efficiency": 28.5981,
+            "score1b_quality": 28.9154,
+            "score1c_activity": 11.96
+        }
+    },
+    {
+        "user_id": "5c64384000000000110164ad",
+        "score1_account_influence": 65.6459,
+        "component_scores": {
+            "score1a_efficiency": 34.9963,
+            "score1b_quality": 29.6596,
+            "score1c_activity": 0.99
+        }
+    },
+    {
+        "user_id": "5d72c2a60000000001019168",
+        "score1_account_influence": 88.6985,
+        "component_scores": {
+            "score1a_efficiency": 49.9985,
             "score1b_quality": 25.5,
             "score1c_activity": 13.2
         }
     },
     {
-        "user_id": "5d6a927e00000000010068b9",
-        "score1_account_influence": 78.0179,
-        "component_scores": {
-            "score1a_efficiency": 48.0302,
-            "score1b_quality": 23.6377,
-            "score1c_activity": 6.35
-        }
-    },
-    {
-        "user_id": "56ada7e482ec39541becb6ff",
-        "score1_account_influence": 65.7093,
-        "component_scores": {
-            "score1a_efficiency": 28.0553,
-            "score1b_quality": 25.384,
-            "score1c_activity": 12.27
-        }
-    },
-    {
-        "user_id": "60c7988c0000000001005e11",
-        "score1_account_influence": 94.0903,
-        "component_scores": {
-            "score1a_efficiency": 49.9693,
-            "score1b_quality": 28.601,
-            "score1c_activity": 15.52
-        }
-    },
-    {
-        "user_id": "5f03c93d000000000100466e",
-        "score1_account_influence": 86.2961,
-        "component_scores": {
-            "score1a_efficiency": 49.9961,
-            "score1b_quality": 25.5,
-            "score1c_activity": 10.8
-        }
-    },
-    {
-        "user_id": "5801c70f6a6a697bad62b653",
-        "score1_account_influence": 85.2685,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 29.3485,
-            "score1c_activity": 5.92
-        }
-    },
-    {
-        "user_id": "5a700b5de8ac2b38e1053423",
-        "score1_account_influence": 76.76,
-        "component_scores": {
-            "score1a_efficiency": 49.93,
-            "score1b_quality": 25.5,
-            "score1c_activity": 1.33
-        }
-    },
-    {
-        "user_id": "592463636a6a696f6fa9c1c1",
-        "score1_account_influence": 35.6001,
-        "component_scores": {
-            "score1a_efficiency": 9.6924,
-            "score1b_quality": 25.9077,
-            "score1c_activity": 0.0
-        }
-    },
-    {
-        "user_id": "570b4b5a1c07df4cfd6ccbf0",
-        "score1_account_influence": 86.1934,
-        "component_scores": {
-            "score1a_efficiency": 41.8734,
-            "score1b_quality": 25.5,
-            "score1c_activity": 18.82
-        }
-    },
-    {
-        "user_id": "5ab249e04eacab0790fb78b3",
-        "score1_account_influence": 70.2667,
-        "component_scores": {
-            "score1a_efficiency": 41.974,
-            "score1b_quality": 27.6927,
-            "score1c_activity": 0.6
-        }
-    },
-    {
-        "user_id": "663ab3fc0000000007005c31",
-        "score1_account_influence": 97.2429,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 28.9729,
-            "score1c_activity": 18.27
-        }
-    },
-    {
-        "user_id": "606c83060000000001002c85",
-        "score1_account_influence": 73.6975,
-        "component_scores": {
-            "score1a_efficiency": 48.8619,
-            "score1b_quality": 22.9456,
-            "score1c_activity": 1.89
-        }
-    },
-    {
-        "user_id": "5a737fe211be1032dfeccbdf",
-        "score1_account_influence": 79.8139,
-        "component_scores": {
-            "score1a_efficiency": 49.7825,
-            "score1b_quality": 28.8314,
-            "score1c_activity": 1.2
-        }
-    },
-    {
-        "user_id": "626ec8020000000021021067",
-        "score1_account_influence": 36.9658,
-        "component_scores": {
-            "score1a_efficiency": 9.6911,
-            "score1b_quality": 26.0747,
-            "score1c_activity": 1.2
-        }
-    },
-    {
-        "user_id": "5fa04c2c0000000001007566",
-        "score1_account_influence": 67.5639,
-        "component_scores": {
-            "score1a_efficiency": 36.0615,
-            "score1b_quality": 29.7024,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "62f0659d000000001f015932",
-        "score1_account_influence": 87.1474,
-        "component_scores": {
-            "score1a_efficiency": 49.7874,
-            "score1b_quality": 25.5,
-            "score1c_activity": 11.86
-        }
-    },
-    {
-        "user_id": "623d476a000000001000b343",
-        "score1_account_influence": 73.3694,
-        "component_scores": {
-            "score1a_efficiency": 31.1689,
-            "score1b_quality": 29.2205,
-            "score1c_activity": 12.98
-        }
-    },
-    {
-        "user_id": "564d4a9167bc65539cd768d4",
-        "score1_account_influence": 26.6925,
-        "component_scores": {
-            "score1a_efficiency": 1.1925,
-            "score1b_quality": 25.5,
-            "score1c_activity": 0.0
-        }
-    },
-    {
-        "user_id": "5d34030d0000000011005892",
-        "score1_account_influence": 84.2916,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 24.0916,
-            "score1c_activity": 10.2
-        }
-    },
-    {
-        "user_id": "67865b1a000000000803eeb0",
-        "score1_account_influence": 89.3,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 13.8
-        }
-    },
-    {
-        "user_id": "5530f8642e1d9365fa9a29fb",
-        "score1_account_influence": 84.36,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 8.86
-        }
-    },
-    {
-        "user_id": "5bd47767f16b990001e1072b",
-        "score1_account_influence": 89.77,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 14.27
-        }
-    },
-    {
-        "user_id": "57fdaead82ec3961690f6b93",
-        "score1_account_influence": 85.8813,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 27.9913,
-            "score1c_activity": 7.89
-        }
-    },
-    {
-        "user_id": "5ec7a678000000000100322e",
-        "score1_account_influence": 80.3864,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 29.7864,
-            "score1c_activity": 0.6
-        }
-    },
-    {
-        "user_id": "67845b1b000000000801f5d8",
-        "score1_account_influence": 92.4384,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 23.2384,
-            "score1c_activity": 19.2
-        }
-    },
-    {
-        "user_id": "5f8e26de000000000101de15",
-        "score1_account_influence": 57.1234,
-        "component_scores": {
-            "score1a_efficiency": 26.6997,
-            "score1b_quality": 28.6237,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "595b8e775e87e737755bf1bd",
-        "score1_account_influence": 54.9341,
-        "component_scores": {
-            "score1a_efficiency": 28.8341,
-            "score1b_quality": 25.5,
-            "score1c_activity": 0.6
-        }
-    },
-    {
-        "user_id": "617961470000000002027fea",
-        "score1_account_influence": 87.18,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 11.68
-        }
-    },
-    {
-        "user_id": "5f5119d80000000001003189",
-        "score1_account_influence": 77.3,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "593a946750c4b410410c3805",
-        "score1_account_influence": 62.5477,
-        "component_scores": {
-            "score1a_efficiency": 37.0477,
-            "score1b_quality": 25.5,
-            "score1c_activity": 0.0
-        }
-    },
-    {
-        "user_id": "5d6c539f000000000101bbfd",
-        "score1_account_influence": 92.7449,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 27.2749,
-            "score1c_activity": 15.47
-        }
-    },
-    {
-        "user_id": "6785e363000000000801d306",
-        "score1_account_influence": 90.7913,
-        "component_scores": {
-            "score1a_efficiency": 49.3308,
-            "score1b_quality": 22.2605,
-            "score1c_activity": 19.2
-        }
-    },
-    {
-        "user_id": "5cfc717b000000000501b4de",
-        "score1_account_influence": 76.362,
-        "component_scores": {
-            "score1a_efficiency": 43.6419,
-            "score1b_quality": 29.1201,
-            "score1c_activity": 3.6
-        }
-    },
-    {
-        "user_id": "5df4c6bb000000000100b24b",
-        "score1_account_influence": 41.8133,
-        "component_scores": {
-            "score1a_efficiency": 10.7369,
-            "score1b_quality": 29.2764,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "5cf39f8e000000001701f516",
-        "score1_account_influence": 79.6101,
-        "component_scores": {
-            "score1a_efficiency": 49.7586,
-            "score1b_quality": 28.0515,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "57f5f8b06a6a6963e65ffc89",
-        "score1_account_influence": 77.1669,
-        "component_scores": {
-            "score1a_efficiency": 49.9988,
-            "score1b_quality": 25.3681,
-            "score1c_activity": 1.8
-        }
-    },
-    {
-        "user_id": "591cf96250c4b428b4eff077",
-        "score1_account_influence": 76.0176,
-        "component_scores": {
-            "score1a_efficiency": 49.8136,
-            "score1b_quality": 25.004,
-            "score1c_activity": 1.2
-        }
-    },
-    {
-        "user_id": "5fdc406c000000000100ad2e",
-        "score1_account_influence": 98.0393,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 29.9993,
-            "score1c_activity": 18.04
-        }
-    },
-    {
-        "user_id": "56b2e6dae4251d7f46ab14e3",
-        "score1_account_influence": 85.8807,
-        "component_scores": {
-            "score1a_efficiency": 49.9965,
-            "score1b_quality": 29.2842,
-            "score1c_activity": 6.6
-        }
-    },
-    {
-        "user_id": "5aa1bb384eacab56033470ce",
-        "score1_account_influence": 27.3438,
-        "component_scores": {
-            "score1a_efficiency": 1.2695,
-            "score1b_quality": 26.0743,
-            "score1c_activity": 0.0
-        }
-    },
-    {
-        "user_id": "625cc665000000001000e71f",
-        "score1_account_influence": 89.2953,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 27.8853,
-            "score1c_activity": 11.41
-        }
-    },
-    {
-        "user_id": "568b2f486a6a6962f22d07ba",
-        "score1_account_influence": 72.3855,
-        "component_scores": {
-            "score1a_efficiency": 34.4701,
-            "score1b_quality": 28.9154,
-            "score1c_activity": 9.0
-        }
-    },
-    {
-        "user_id": "5c64384000000000110164ad",
-        "score1_account_influence": 79.6533,
-        "component_scores": {
-            "score1a_efficiency": 49.9937,
-            "score1b_quality": 29.6596,
-            "score1c_activity": 0.0
-        }
-    },
-    {
-        "user_id": "5d72c2a60000000001019168",
-        "score1_account_influence": 85.1,
-        "component_scores": {
-            "score1a_efficiency": 50.0,
-            "score1b_quality": 25.5,
-            "score1c_activity": 9.6
-        }
-    },
-    {
         "user_id": "5aa0cade11be1046ae887e60",
-        "score1_account_influence": 91.6879,
+        "score1_account_influence": 87.4994,
         "component_scores": {
-            "score1a_efficiency": 49.9879,
+            "score1a_efficiency": 43.5394,
             "score1b_quality": 25.5,
-            "score1c_activity": 16.2
+            "score1c_activity": 18.46
         }
     },
     {
         "user_id": "55f2f7e3f5a2635bd2fac7b5",
-        "score1_account_influence": 85.48,
+        "score1_account_influence": 87.8781,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.9981,
             "score1b_quality": 25.5,
-            "score1c_activity": 9.98
+            "score1c_activity": 12.38
         }
     },
     {
         "user_id": "5b67b542a559a50001e1ff09",
-        "score1_account_influence": 86.74,
+        "score1_account_influence": 84.5615,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 46.1515,
             "score1b_quality": 25.5,
-            "score1c_activity": 11.24
+            "score1c_activity": 12.91
         }
     },
     {
         "user_id": "55481451b203d97e86008c02",
-        "score1_account_influence": 82.7819,
+        "score1_account_influence": 79.7421,
         "component_scores": {
-            "score1a_efficiency": 49.9419,
+            "score1a_efficiency": 46.2721,
             "score1b_quality": 25.5,
-            "score1c_activity": 7.34
+            "score1c_activity": 7.97
         }
     },
     {
         "user_id": "5f5888a8000000000101e50d",
-        "score1_account_influence": 47.7778,
+        "score1_account_influence": 39.9224,
         "component_scores": {
-            "score1a_efficiency": 12.6778,
+            "score1a_efficiency": 3.9724,
             "score1b_quality": 25.5,
-            "score1c_activity": 9.6
+            "score1c_activity": 10.45
         }
     },
     {
         "user_id": "5b778c2d5b95340001d6de60",
-        "score1_account_influence": 76.8325,
+        "score1_account_influence": 74.2419,
         "component_scores": {
-            "score1a_efficiency": 49.7466,
+            "score1a_efficiency": 45.366,
             "score1b_quality": 25.8859,
-            "score1c_activity": 1.2
+            "score1c_activity": 2.99
         }
     },
     {
         "user_id": "5a6ada44db2e6012444e4a39",
-        "score1_account_influence": 92.3,
+        "score1_account_influence": 95.5,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 16.8
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5994315250c4b44ce63f0df6",
-        "score1_account_influence": 84.2899,
+        "score1_account_influence": 86.459,
         "component_scores": {
-            "score1a_efficiency": 49.9999,
+            "score1a_efficiency": 47.499,
             "score1b_quality": 25.5,
-            "score1c_activity": 8.79
+            "score1c_activity": 13.46
         }
     },
     {
         "user_id": "6349a37f000000001802bbed",
-        "score1_account_influence": 34.47,
+        "score1_account_influence": 36.2109,
         "component_scores": {
-            "score1a_efficiency": 1.0718,
+            "score1a_efficiency": 2.3627,
             "score1b_quality": 24.5782,
-            "score1c_activity": 8.82
+            "score1c_activity": 9.27
         }
     },
     {
         "user_id": "613f2b6a000000000201f3ba",
-        "score1_account_influence": 88.2259,
+        "score1_account_influence": 74.592,
         "component_scores": {
-            "score1a_efficiency": 46.6682,
+            "score1a_efficiency": 30.3143,
             "score1b_quality": 29.9977,
-            "score1c_activity": 11.56
+            "score1c_activity": 14.28
         }
     },
     {
         "user_id": "5859b26f6a6a6967855d7c65",
-        "score1_account_influence": 78.7331,
+        "score1_account_influence": 72.1831,
         "component_scores": {
-            "score1a_efficiency": 47.7147,
+            "score1a_efficiency": 39.7947,
             "score1b_quality": 26.2184,
-            "score1c_activity": 4.8
+            "score1c_activity": 6.17
         }
     },
     {
         "user_id": "627d9846000000002102336f",
-        "score1_account_influence": 80.4886,
+        "score1_account_influence": 72.4191,
         "component_scores": {
-            "score1a_efficiency": 49.9992,
+            "score1a_efficiency": 41.5897,
             "score1b_quality": 29.2894,
-            "score1c_activity": 1.2
+            "score1c_activity": 1.54
         }
     },
     {
         "user_id": "5ab3172c11be105422211c84",
-        "score1_account_influence": 81.8419,
+        "score1_account_influence": 69.2613,
         "component_scores": {
-            "score1a_efficiency": 49.7426,
+            "score1a_efficiency": 35.562,
             "score1b_quality": 25.7593,
-            "score1c_activity": 6.34
+            "score1c_activity": 7.94
         }
     },
     {
         "user_id": "59417dd15e87e7122b80b498",
-        "score1_account_influence": 77.3842,
+        "score1_account_influence": 59.8137,
         "component_scores": {
-            "score1a_efficiency": 47.1744,
+            "score1a_efficiency": 29.3139,
             "score1b_quality": 29.6098,
-            "score1c_activity": 0.6
+            "score1c_activity": 0.89
         }
     },
     {
         "user_id": "5a74dca911be1032569e20df",
-        "score1_account_influence": 87.9644,
+        "score1_account_influence": 75.5763,
         "component_scores": {
-            "score1a_efficiency": 44.9044,
+            "score1a_efficiency": 30.0763,
             "score1b_quality": 25.5,
-            "score1c_activity": 17.56
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5aa34d334eacab095adb82e3",
-        "score1_account_influence": 80.6198,
+        "score1_account_influence": 67.5579,
         "component_scores": {
-            "score1a_efficiency": 49.9774,
+            "score1a_efficiency": 35.8755,
             "score1b_quality": 27.0424,
-            "score1c_activity": 3.6
+            "score1c_activity": 4.64
         }
     },
     {
         "user_id": "558a4a065894460336de85bf",
-        "score1_account_influence": 95.8364,
+        "score1_account_influence": 98.0745,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.8581,
             "score1b_quality": 28.2164,
-            "score1c_activity": 17.62
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5bf0eea1da9ae10001cfd0a1",
-        "score1_account_influence": 42.8114,
+        "score1_account_influence": 36.9214,
         "component_scores": {
-            "score1a_efficiency": 11.0566,
+            "score1a_efficiency": 4.6566,
             "score1b_quality": 29.9548,
-            "score1c_activity": 1.8
+            "score1c_activity": 2.31
         }
     },
     {
         "user_id": "5afe57874eacab6bff64b75b",
-        "score1_account_influence": 42.7822,
+        "score1_account_influence": 38.0872,
         "component_scores": {
-            "score1a_efficiency": 12.5297,
+            "score1a_efficiency": 7.6547,
             "score1b_quality": 29.6525,
-            "score1c_activity": 0.6
+            "score1c_activity": 0.78
         }
     },
     {
         "user_id": "5cf3d4cd00000000100324a0",
-        "score1_account_influence": 93.98,
+        "score1_account_influence": 95.5,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 18.48
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "61476c9f0000000002020845",
-        "score1_account_influence": 94.7,
+        "score1_account_influence": 95.5,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 19.2
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "589f2a696a6a69228d063c80",
-        "score1_account_influence": 92.7,
+        "score1_account_influence": 95.4487,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.9987,
             "score1b_quality": 25.5,
-            "score1c_activity": 17.2
+            "score1c_activity": 19.95
         }
     },
     {
         "user_id": "60e859f1000000000100b675",
-        "score1_account_influence": 50.9881,
+        "score1_account_influence": 47.5192,
         "component_scores": {
-            "score1a_efficiency": 24.8881,
+            "score1a_efficiency": 20.5292,
             "score1b_quality": 25.5,
-            "score1c_activity": 0.6
+            "score1c_activity": 1.49
         }
     },
     {
         "user_id": "5d236c2400000000110291ba",
-        "score1_account_influence": 48.6875,
+        "score1_account_influence": 31.8424,
         "component_scores": {
-            "score1a_efficiency": 22.4465,
+            "score1a_efficiency": 5.4214,
             "score1b_quality": 25.641,
-            "score1c_activity": 0.6
+            "score1c_activity": 0.78
         }
     },
     {
         "user_id": "6303b99d0000000012001f58",
-        "score1_account_influence": 86.8,
+        "score1_account_influence": 87.84,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 11.3
+            "score1c_activity": 12.34
         }
     },
     {
         "user_id": "5f1880d8000000000101d503",
-        "score1_account_influence": 73.494,
+        "score1_account_influence": 69.0184,
         "component_scores": {
-            "score1a_efficiency": 47.994,
+            "score1a_efficiency": 39.8684,
             "score1b_quality": 25.5,
-            "score1c_activity": 0.0
+            "score1c_activity": 3.65
         }
     },
     {
         "user_id": "63288a0200000000230275fd",
-        "score1_account_influence": 82.8076,
+        "score1_account_influence": 86.2627,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 48.7651,
             "score1b_quality": 29.8076,
-            "score1c_activity": 3.0
+            "score1c_activity": 7.69
         }
     },
     {
         "user_id": "57a142546a6a695a454d664e",
-        "score1_account_influence": 36.508,
+        "score1_account_influence": 31.9552,
         "component_scores": {
-            "score1a_efficiency": 9.2572,
+            "score1a_efficiency": 4.5344,
             "score1b_quality": 26.6508,
-            "score1c_activity": 0.6
+            "score1c_activity": 0.77
         }
     },
     {
         "user_id": "6110a0940000000001002eec",
-        "score1_account_influence": 46.9555,
+        "score1_account_influence": 42.0555,
         "component_scores": {
-            "score1a_efficiency": 11.3314,
+            "score1a_efficiency": 5.5214,
             "score1b_quality": 29.8441,
-            "score1c_activity": 5.78
+            "score1c_activity": 6.69
         }
     },
     {
         "user_id": "5eef790e0000000001002090",
-        "score1_account_influence": 88.1952,
+        "score1_account_influence": 89.023,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.7778,
             "score1b_quality": 26.8852,
-            "score1c_activity": 11.31
+            "score1c_activity": 12.36
         }
     },
     {
         "user_id": "6104251600000000010052ab",
-        "score1_account_influence": 70.8232,
+        "score1_account_influence": 51.6518,
         "component_scores": {
-            "score1a_efficiency": 45.2063,
+            "score1a_efficiency": 22.2049,
             "score1b_quality": 25.6169,
-            "score1c_activity": 0.0
+            "score1c_activity": 3.83
         }
     },
     {
         "user_id": "5b7ba8c2e6c06200012a5977",
-        "score1_account_influence": 80.4618,
+        "score1_account_influence": 82.4788,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.477,
             "score1b_quality": 27.7818,
-            "score1c_activity": 2.68
+            "score1c_activity": 5.22
         }
     },
     {
         "user_id": "676f0595000000001801da5d",
-        "score1_account_influence": 89.2723,
+        "score1_account_influence": 77.5304,
         "component_scores": {
-            "score1a_efficiency": 49.9723,
+            "score1a_efficiency": 36.9104,
             "score1b_quality": 25.5,
-            "score1c_activity": 13.8
+            "score1c_activity": 15.12
         }
     },
     {
         "user_id": "5e1d86f90000000001006abc",
-        "score1_account_influence": 75.6626,
+        "score1_account_influence": 49.2131,
         "component_scores": {
-            "score1a_efficiency": 49.5626,
+            "score1a_efficiency": 20.5231,
             "score1b_quality": 25.5,
-            "score1c_activity": 0.6
+            "score1c_activity": 3.19
         }
     },
     {
         "user_id": "5f3a3aa5000000000101e9ac",
-        "score1_account_influence": 79.8966,
+        "score1_account_influence": 79.1275,
         "component_scores": {
-            "score1a_efficiency": 49.9972,
+            "score1a_efficiency": 48.2081,
             "score1b_quality": 26.2994,
-            "score1c_activity": 3.6
+            "score1c_activity": 4.62
         }
     },
     {
         "user_id": "585dce396a6a69308e6d580d",
-        "score1_account_influence": 92.82,
+        "score1_account_influence": 95.5,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 17.32
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "556f1983f5a26347140b104b",
-        "score1_account_influence": 92.3,
+        "score1_account_influence": 95.5,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 16.8
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "57ffbca35e87e76f746d9a64",
-        "score1_account_influence": 64.6096,
+        "score1_account_influence": 34.5598,
         "component_scores": {
-            "score1a_efficiency": 40.6183,
+            "score1a_efficiency": 10.2285,
             "score1b_quality": 22.7913,
-            "score1c_activity": 1.2
+            "score1c_activity": 1.54
         }
     },
     {
         "user_id": "576e5cc95e87e72f9801db4d",
-        "score1_account_influence": 59.7856,
+        "score1_account_influence": 38.4481,
         "component_scores": {
-            "score1a_efficiency": 32.6508,
+            "score1a_efficiency": 10.7933,
             "score1b_quality": 25.3348,
-            "score1c_activity": 1.8
+            "score1c_activity": 2.32
         }
     },
     {
         "user_id": "5ee6752c000000000101dc73",
-        "score1_account_influence": 71.4744,
+        "score1_account_influence": 70.025,
         "component_scores": {
-            "score1a_efficiency": 40.8344,
+            "score1a_efficiency": 37.625,
             "score1b_quality": 25.5,
-            "score1c_activity": 5.14
+            "score1c_activity": 6.9
         }
     },
     {
         "user_id": "580c368650c4b44811e07ff8",
-        "score1_account_influence": 80.7549,
+        "score1_account_influence": 82.682,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.9371,
             "score1b_quality": 27.1549,
-            "score1c_activity": 3.6
+            "score1c_activity": 5.59
         }
     },
     {
         "user_id": "5deef4710000000001006a73",
-        "score1_account_influence": 83.9953,
+        "score1_account_influence": 78.5131,
         "component_scores": {
-            "score1a_efficiency": 49.9968,
+            "score1a_efficiency": 41.0946,
             "score1b_quality": 27.4285,
-            "score1c_activity": 6.57
+            "score1c_activity": 9.99
         }
     },
     {
         "user_id": "651b72c60000000024016c70",
-        "score1_account_influence": 98.5303,
+        "score1_account_influence": 99.9003,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 29.9003,
-            "score1c_activity": 18.63
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5dfd27da0000000001009aae",
-        "score1_account_influence": 35.2252,
+        "score1_account_influence": 27.4081,
         "component_scores": {
-            "score1a_efficiency": 11.695,
+            "score1a_efficiency": 3.7479,
             "score1b_quality": 23.5302,
-            "score1c_activity": 0.0
+            "score1c_activity": 0.13
         }
     },
     {
         "user_id": "5bcd24861193dc000127b483",
-        "score1_account_influence": 88.804,
+        "score1_account_influence": 63.3768,
         "component_scores": {
-            "score1a_efficiency": 49.9742,
+            "score1a_efficiency": 23.827,
             "score1b_quality": 29.0498,
-            "score1c_activity": 9.78
+            "score1c_activity": 10.5
         }
     },
     {
         "user_id": "5a7b0ca44eacab082944e6e3",
-        "score1_account_influence": 83.6435,
+        "score1_account_influence": 82.6962,
         "component_scores": {
-            "score1a_efficiency": 49.998,
+            "score1a_efficiency": 48.2107,
             "score1b_quality": 22.8455,
-            "score1c_activity": 10.8
+            "score1c_activity": 11.64
         }
     },
     {
         "user_id": "5d01cb140000000017003df6",
-        "score1_account_influence": 40.3046,
+        "score1_account_influence": 41.3742,
         "component_scores": {
-            "score1a_efficiency": 2.677,
+            "score1a_efficiency": 2.9466,
             "score1b_quality": 28.0276,
-            "score1c_activity": 9.6
+            "score1c_activity": 10.4
         }
     },
     {
         "user_id": "6613fa0f000000000303117f",
-        "score1_account_influence": 94.6009,
+        "score1_account_influence": 92.5426,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 45.8517,
             "score1b_quality": 29.9009,
-            "score1c_activity": 14.7
+            "score1c_activity": 16.79
         }
     },
     {
         "user_id": "615b505c000000000201f7b8",
-        "score1_account_influence": 27.2542,
+        "score1_account_influence": 32.3033,
         "component_scores": {
-            "score1a_efficiency": 1.0567,
+            "score1a_efficiency": 2.3558,
             "score1b_quality": 26.1975,
-            "score1c_activity": 0.0
+            "score1c_activity": 3.75
         }
     },
     {
         "user_id": "5b6ca1b7e44bfa0001a013e6",
-        "score1_account_influence": 89.585,
+        "score1_account_influence": 64.352,
         "component_scores": {
-            "score1a_efficiency": 46.2156,
+            "score1a_efficiency": 18.7626,
             "score1b_quality": 25.5894,
-            "score1c_activity": 17.78
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5a5bf1414eacab4087b808c7",
-        "score1_account_influence": 77.218,
+        "score1_account_influence": 58.6855,
         "component_scores": {
-            "score1a_efficiency": 48.8438,
+            "score1a_efficiency": 27.9413,
             "score1b_quality": 22.3742,
-            "score1c_activity": 6.0
+            "score1c_activity": 8.37
         }
     },
     {
         "user_id": "621a0927000000001000f950",
-        "score1_account_influence": 96.4501,
+        "score1_account_influence": 96.612,
         "component_scores": {
-            "score1a_efficiency": 49.9997,
+            "score1a_efficiency": 48.8416,
             "score1b_quality": 27.7704,
-            "score1c_activity": 18.68
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "5c4be6f500000000100050c6",
-        "score1_account_influence": 90.5,
+        "score1_account_influence": 92.81,
         "component_scores": {
             "score1a_efficiency": 50.0,
             "score1b_quality": 25.5,
-            "score1c_activity": 15.0
+            "score1c_activity": 17.31
         }
     },
     {
         "user_id": "587623ba6a6a691cffba0875",
-        "score1_account_influence": 98.4895,
+        "score1_account_influence": 98.2521,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 48.5026,
             "score1b_quality": 29.7495,
-            "score1c_activity": 18.74
+            "score1c_activity": 20
         }
     },
     {
         "user_id": "57edc02550c4b47c9e876daf",
-        "score1_account_influence": 89.71,
+        "score1_account_influence": 93.2799,
         "component_scores": {
-            "score1a_efficiency": 50.0,
+            "score1a_efficiency": 49.9999,
             "score1b_quality": 25.5,
-            "score1c_activity": 14.21
+            "score1c_activity": 17.78
         }
     }
 ]
