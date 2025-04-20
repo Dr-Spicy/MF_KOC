@@ -4,7 +4,7 @@
         "score4_target_match": 59.0,
         "component_scores": {
             "score4a_tag": 21.9,
-            "score4b_region": 15.153592780074096,
+            "score4b_region": 15.2,
             "score4c_age": 19.6,
             "score4d_gender": 2.3
         }
@@ -14,7 +14,7 @@
         "score4_target_match": 74.7,
         "component_scores": {
             "score4a_tag": 40.6,
-            "score4b_region": 13.319338535036405,
+            "score4b_region": 13.3,
             "score4c_age": 19.4,
             "score4d_gender": 1.4
         }
@@ -24,7 +24,7 @@
         "score4_target_match": 39.4,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 19.931279633044923,
+            "score4b_region": 19.9,
             "score4c_age": 18.7,
             "score4d_gender": 0.8
         }
@@ -34,7 +34,7 @@
         "score4_target_match": 60.0,
         "component_scores": {
             "score4a_tag": 19.9,
-            "score4b_region": 17.162978701990244,
+            "score4b_region": 17.2,
             "score4c_age": 19.6,
             "score4d_gender": 3.3
         }
@@ -44,7 +44,7 @@
         "score4_target_match": 54.1,
         "component_scores": {
             "score4a_tag": 14.3,
-            "score4b_region": 15.476371485389077,
+            "score4b_region": 15.5,
             "score4c_age": 19.7,
             "score4d_gender": 4.6
         }
@@ -54,7 +54,7 @@
         "score4_target_match": 54.3,
         "component_scores": {
             "score4a_tag": 22.7,
-            "score4b_region": 7.224736497023161,
+            "score4b_region": 7.2,
             "score4c_age": 19.7,
             "score4d_gender": 4.7
         }
@@ -64,7 +64,7 @@
         "score4_target_match": 48.6,
         "component_scores": {
             "score4a_tag": 12.8,
-            "score4b_region": 13.319338535036405,
+            "score4b_region": 13.3,
             "score4c_age": 19.4,
             "score4d_gender": 3.1
         }
@@ -74,7 +74,7 @@
         "score4_target_match": 63.2,
         "component_scores": {
             "score4a_tag": 25.2,
-            "score4b_region": 15.370495669980352,
+            "score4b_region": 15.4,
             "score4c_age": 19.1,
             "score4d_gender": 3.5
         }
@@ -84,7 +84,7 @@
         "score4_target_match": 50.4,
         "component_scores": {
             "score4a_tag": 18.8,
-            "score4b_region": 14.699451989330376,
+            "score4b_region": 14.7,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -94,7 +94,7 @@
         "score4_target_match": 54.4,
         "component_scores": {
             "score4a_tag": 21.7,
-            "score4b_region": 8.953841808513493,
+            "score4b_region": 9.0,
             "score4c_age": 19.5,
             "score4d_gender": 4.2
         }
@@ -104,7 +104,7 @@
         "score4_target_match": 52.5,
         "component_scores": {
             "score4a_tag": 12.9,
-            "score4b_region": 17.759059228860195,
+            "score4b_region": 17.8,
             "score4c_age": 19.5,
             "score4d_gender": 2.3
         }
@@ -114,7 +114,7 @@
         "score4_target_match": 56.6,
         "component_scores": {
             "score4a_tag": 15.6,
-            "score4b_region": 12.636248354722033,
+            "score4b_region": 12.6,
             "score4c_age": 19.8,
             "score4d_gender": 8.6
         }
@@ -134,7 +134,7 @@
         "score4_target_match": 60.6,
         "component_scores": {
             "score4a_tag": 26.7,
-            "score4b_region": 10.449696495836003,
+            "score4b_region": 10.4,
             "score4c_age": 19.7,
             "score4d_gender": 3.8
         }
@@ -144,7 +144,7 @@
         "score4_target_match": 59.2,
         "component_scores": {
             "score4a_tag": 24.5,
-            "score4b_region": 11.488850336233181,
+            "score4b_region": 11.5,
             "score4c_age": 19.6,
             "score4d_gender": 3.6
         }
@@ -154,7 +154,7 @@
         "score4_target_match": 52.9,
         "component_scores": {
             "score4a_tag": 17.7,
-            "score4b_region": 13.049789243854889,
+            "score4b_region": 13.0,
             "score4c_age": 19.5,
             "score4d_gender": 2.7
         }
@@ -164,7 +164,7 @@
         "score4_target_match": 49.7,
         "component_scores": {
             "score4a_tag": 21.1,
-            "score4b_region": 6.950210756145111,
+            "score4b_region": 7.0,
             "score4c_age": 17.8,
             "score4d_gender": 3.8
         }
@@ -174,7 +174,7 @@
         "score4_target_match": 62.6,
         "component_scores": {
             "score4a_tag": 24.6,
-            "score4b_region": 14.58175844698613,
+            "score4b_region": 14.6,
             "score4c_age": 19.6,
             "score4d_gender": 3.8
         }
@@ -184,7 +184,7 @@
         "score4_target_match": 42.2,
         "component_scores": {
             "score4a_tag": 18.8,
-            "score4b_region": 6.547859658644791,
+            "score4b_region": 6.5,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -194,7 +194,7 @@
         "score4_target_match": 42.1,
         "component_scores": {
             "score4a_tag": 18.8,
-            "score4b_region": 6.4164260164921405,
+            "score4b_region": 6.4,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -204,7 +204,7 @@
         "score4_target_match": 24.8,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.9303350027054735,
+            "score4b_region": 7.9,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -214,7 +214,7 @@
         "score4_target_match": 44.4,
         "component_scores": {
             "score4a_tag": 18.8,
-            "score4b_region": 8.658141900690914,
+            "score4b_region": 8.7,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -224,7 +224,7 @@
         "score4_target_match": 82.0,
         "component_scores": {
             "score4a_tag": 45.7,
-            "score4b_region": 16.35148952387287,
+            "score4b_region": 16.4,
             "score4c_age": 19.4,
             "score4d_gender": 0.5
         }
@@ -234,7 +234,7 @@
         "score4_target_match": 51.9,
         "component_scores": {
             "score4a_tag": 19.6,
-            "score4b_region": 9.25140309312501,
+            "score4b_region": 9.3,
             "score4c_age": 19.2,
             "score4d_gender": 3.8
         }
@@ -244,7 +244,7 @@
         "score4_target_match": 86.5,
         "component_scores": {
             "score4a_tag": 45.8,
-            "score4b_region": 19.904540397704736,
+            "score4b_region": 19.9,
             "score4c_age": 18.2,
             "score4d_gender": 2.6
         }
@@ -254,7 +254,7 @@
         "score4_target_match": 52.4,
         "component_scores": {
             "score4a_tag": 19.5,
-            "score4b_region": 9.400718964708565,
+            "score4b_region": 9.4,
             "score4c_age": 19.7,
             "score4d_gender": 3.8
         }
@@ -264,7 +264,7 @@
         "score4_target_match": 47.8,
         "component_scores": {
             "score4a_tag": 20.8,
-            "score4b_region": 7.363751645277966,
+            "score4b_region": 7.4,
             "score4c_age": 19.6,
             "score4d_gender": 0.0
         }
@@ -284,7 +284,7 @@
         "score4_target_match": 41.9,
         "component_scores": {
             "score4a_tag": 14.7,
-            "score4b_region": 6.547859658644791,
+            "score4b_region": 6.5,
             "score4c_age": 19.3,
             "score4d_gender": 1.4
         }
@@ -294,7 +294,7 @@
         "score4_target_match": 47.2,
         "component_scores": {
             "score4a_tag": 18.8,
-            "score4b_region": 11.488850336233181,
+            "score4b_region": 11.5,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -304,7 +304,7 @@
         "score4_target_match": 52.7,
         "component_scores": {
             "score4a_tag": 17.1,
-            "score4b_region": 7.363751645277966,
+            "score4b_region": 7.4,
             "score4c_age": 19.6,
             "score4d_gender": 8.6
         }
@@ -314,7 +314,7 @@
         "score4_target_match": 45.9,
         "component_scores": {
             "score4a_tag": 14.5,
-            "score4b_region": 6.814792230972291,
+            "score4b_region": 6.8,
             "score4c_age": 19.5,
             "score4d_gender": 5.1
         }
@@ -324,7 +324,7 @@
         "score4_target_match": 53.5,
         "component_scores": {
             "score4a_tag": 12.9,
-            "score4b_region": 17.23523453655012,
+            "score4b_region": 17.2,
             "score4c_age": 19.7,
             "score4d_gender": 3.7
         }
@@ -334,7 +334,7 @@
         "score4_target_match": 89.6,
         "component_scores": {
             "score4a_tag": 48.0,
-            "score4b_region": 19.99155929844,
+            "score4b_region": 20.0,
             "score4c_age": 18.3,
             "score4d_gender": 3.3
         }
@@ -354,7 +354,7 @@
         "score4_target_match": 37.9,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 16.85809062229095,
+            "score4b_region": 16.9,
             "score4c_age": 18.1,
             "score4d_gender": 2.9
         }
@@ -374,7 +374,7 @@
         "score4_target_match": 26.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.547859658644791,
+            "score4b_region": 6.5,
             "score4c_age": 19.6,
             "score4d_gender": 0.2
         }
@@ -384,7 +384,7 @@
         "score4_target_match": 81.7,
         "component_scores": {
             "score4a_tag": 34.5,
-            "score4b_region": 18.381730655690692,
+            "score4b_region": 18.4,
             "score4c_age": 19.3,
             "score4d_gender": 9.5
         }
@@ -394,7 +394,7 @@
         "score4_target_match": 40.8,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.262900314537108,
+            "score4b_region": 15.3,
             "score4c_age": 19.3,
             "score4d_gender": 6.2
         }
@@ -404,7 +404,7 @@
         "score4_target_match": 32.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 8.658141900690914,
+            "score4b_region": 8.7,
             "score4c_age": 19.7,
             "score4d_gender": 4.3
         }
@@ -414,7 +414,7 @@
         "score4_target_match": 39.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 13.713602278765077,
+            "score4b_region": 13.7,
             "score4c_age": 19.5,
             "score4d_gender": 6.3
         }
@@ -424,7 +424,7 @@
         "score4_target_match": 35.9,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.476371485389077,
+            "score4b_region": 15.5,
             "score4c_age": 18.8,
             "score4d_gender": 1.6
         }
@@ -434,7 +434,7 @@
         "score4_target_match": 33.2,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.850011248987594,
+            "score4b_region": 9.9,
             "score4c_age": 17.2,
             "score4d_gender": 6.1
         }
@@ -444,7 +444,7 @@
         "score4_target_match": 36.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.929879666753243,
+            "score4b_region": 14.9,
             "score4c_age": 19.5,
             "score4d_gender": 2.3
         }
@@ -454,7 +454,7 @@
         "score4_target_match": 44.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 17.759059228860195,
+            "score4b_region": 17.8,
             "score4c_age": 19.7,
             "score4d_gender": 7.2
         }
@@ -464,7 +464,7 @@
         "score4_target_match": 41.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.370495669980352,
+            "score4b_region": 15.4,
             "score4c_age": 19.6,
             "score4d_gender": 6.3
         }
@@ -474,7 +474,7 @@
         "score4_target_match": 38.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 13.45214034135521,
+            "score4b_region": 13.5,
             "score4c_age": 19.1,
             "score4d_gender": 6.0
         }
@@ -484,7 +484,7 @@
         "score4_target_match": 38.8,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 16.44012628427507,
+            "score4b_region": 16.4,
             "score4c_age": 19.3,
             "score4d_gender": 3.1
         }
@@ -494,7 +494,7 @@
         "score4_target_match": 32.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 11.046158191486505,
+            "score4b_region": 11.0,
             "score4c_age": 19.7,
             "score4d_gender": 1.8
         }
@@ -504,7 +504,7 @@
         "score4_target_match": 39.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.042582228791403,
+            "score4b_region": 15.0,
             "score4c_age": 19.7,
             "score4d_gender": 5.0
         }
@@ -514,7 +514,7 @@
         "score4_target_match": 39.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.783634130445058,
+            "score4b_region": 15.8,
             "score4c_age": 19.4,
             "score4d_gender": 3.9
         }
@@ -524,7 +524,7 @@
         "score4_target_match": 34.2,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.1024221525284,
+            "score4b_region": 9.1,
             "score4c_age": 19.3,
             "score4d_gender": 5.8
         }
@@ -534,7 +534,7 @@
         "score4_target_match": 38.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.81549798364308,
+            "score4b_region": 14.8,
             "score4c_age": 19.6,
             "score4d_gender": 4.2
         }
@@ -544,7 +544,7 @@
         "score4_target_match": 38.4,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.153592780074096,
+            "score4b_region": 15.2,
             "score4c_age": 19.7,
             "score4d_gender": 3.5
         }
@@ -554,7 +554,7 @@
         "score4_target_match": 32.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.400718964708565,
+            "score4b_region": 9.4,
             "score4c_age": 18.7,
             "score4d_gender": 4.6
         }
@@ -564,7 +564,7 @@
         "score4_target_match": 26.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.400718964708565,
+            "score4b_region": 9.4,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -574,7 +574,7 @@
         "score4_target_match": 41.4,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 17.375110611229534,
+            "score4b_region": 17.4,
             "score4c_age": 19.3,
             "score4d_gender": 4.7
         }
@@ -584,7 +584,7 @@
         "score4_target_match": 54.6,
         "component_scores": {
             "score4a_tag": 21.6,
-            "score4b_region": 9.25140309312501,
+            "score4b_region": 9.3,
             "score4c_age": 19.7,
             "score4d_gender": 4.0
         }
@@ -594,7 +594,7 @@
         "score4_target_match": 32.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.814792230972291,
+            "score4b_region": 6.8,
             "score4c_age": 19.6,
             "score4d_gender": 6.2
         }
@@ -604,7 +604,7 @@
         "score4_target_match": 40.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 13.969304320050776,
+            "score4b_region": 14.0,
             "score4c_age": 19.2,
             "score4d_gender": 7.4
         }
@@ -614,7 +614,7 @@
         "score4_target_match": 42.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 13.713602278765077,
+            "score4b_region": 13.7,
             "score4c_age": 19.4,
             "score4d_gender": 9.6
         }
@@ -624,7 +624,7 @@
         "score4_target_match": 32.9,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.400718964708565,
+            "score4b_region": 9.4,
             "score4c_age": 19.8,
             "score4d_gender": 3.7
         }
@@ -634,7 +634,7 @@
         "score4_target_match": 26.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 5.90508604003818,
+            "score4b_region": 5.9,
             "score4c_age": 19.3,
             "score4d_gender": 1.5
         }
@@ -644,7 +644,7 @@
         "score4_target_match": 29.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.286397721234923,
+            "score4b_region": 6.3,
             "score4c_age": 19.0,
             "score4d_gender": 4.2
         }
@@ -654,7 +654,7 @@
         "score4_target_match": 33.4,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.25140309312501,
+            "score4b_region": 9.3,
             "score4c_age": 19.7,
             "score4d_gender": 4.4
         }
@@ -664,7 +664,7 @@
         "score4_target_match": 30.2,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 9.25140309312501,
+            "score4b_region": 9.3,
             "score4c_age": 19.0,
             "score4d_gender": 1.9
         }
@@ -674,7 +674,7 @@
         "score4_target_match": 38.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.81549798364308,
+            "score4b_region": 14.8,
             "score4c_age": 19.4,
             "score4d_gender": 3.9
         }
@@ -684,7 +684,7 @@
         "score4_target_match": 30.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.224736497023161,
+            "score4b_region": 7.2,
             "score4c_age": 19.3,
             "score4d_gender": 4.2
         }
@@ -694,7 +694,7 @@
         "score4_target_match": 34.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.08687387548409,
+            "score4b_region": 7.1,
             "score4c_age": 19.5,
             "score4d_gender": 7.5
         }
@@ -704,7 +704,7 @@
         "score4_target_match": 31.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.218990052500079,
+            "score4b_region": 14.2,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -714,7 +714,7 @@
         "score4_target_match": 32.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 10.8975778474716,
+            "score4b_region": 10.9,
             "score4c_age": 19.5,
             "score4d_gender": 2.3
         }
@@ -724,7 +724,7 @@
         "score4_target_match": 31.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.699451989330376,
+            "score4b_region": 14.7,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -734,7 +734,7 @@
         "score4_target_match": 31.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.58175844698613,
+            "score4b_region": 14.6,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -744,7 +744,7 @@
         "score4_target_match": 24.8,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.030695679949225,
+            "score4b_region": 6.0,
             "score4c_age": 16.7,
             "score4d_gender": 2.1
         }
@@ -754,7 +754,7 @@
         "score4_target_match": 30.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.4164260164921405,
+            "score4b_region": 6.4,
             "score4c_age": 19.7,
             "score4d_gender": 4.5
         }
@@ -764,7 +764,7 @@
         "score4_target_match": 48.3,
         "component_scores": {
             "score4a_tag": 20.9,
-            "score4b_region": 5.781009947499921,
+            "score4b_region": 5.8,
             "score4c_age": 19.7,
             "score4d_gender": 1.9
         }
@@ -774,7 +774,7 @@
         "score4_target_match": 33.2,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.787215321015561,
+            "score4b_region": 7.8,
             "score4c_age": 19.5,
             "score4d_gender": 5.9
         }
@@ -784,7 +784,7 @@
         "score4_target_match": 42.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.462436102487798,
+            "score4b_region": 14.5,
             "score4c_age": 18.2,
             "score4d_gender": 9.9
         }
@@ -794,7 +794,7 @@
         "score4_target_match": 30.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 6.157809913964236,
+            "score4b_region": 6.2,
             "score4c_age": 19.8,
             "score4d_gender": 4.5
         }
@@ -824,7 +824,7 @@
         "score4_target_match": 22.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 5.781009947499921,
+            "score4b_region": 5.8,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -844,7 +844,7 @@
         "score4_target_match": 43.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 16.5270670596199,
+            "score4b_region": 16.5,
             "score4c_age": 18.2,
             "score4d_gender": 8.6
         }
@@ -854,7 +854,7 @@
         "score4_target_match": 37.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 14.81549798364308,
+            "score4b_region": 14.8,
             "score4c_age": 19.6,
             "score4d_gender": 2.9
         }
@@ -864,7 +864,7 @@
         "score4_target_match": 40.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.580522155596242,
+            "score4b_region": 15.6,
             "score4c_age": 19.6,
             "score4d_gender": 5.1
         }
@@ -874,7 +874,7 @@
         "score4_target_match": 40.4,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 17.57362324216526,
+            "score4b_region": 17.6,
             "score4c_age": 19.6,
             "score4d_gender": 3.2
         }
@@ -884,7 +884,7 @@
         "score4_target_match": 31.9,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 11.19427298534386,
+            "score4b_region": 11.2,
             "score4c_age": 19.6,
             "score4d_gender": 1.1
         }
@@ -894,7 +894,7 @@
         "score4_target_match": 41.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 17.162978701990244,
+            "score4b_region": 17.2,
             "score4c_age": 19.6,
             "score4d_gender": 4.8
         }
@@ -904,7 +904,7 @@
         "score4_target_match": 36.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 8.51114966376682,
+            "score4b_region": 8.5,
             "score4c_age": 19.8,
             "score4d_gender": 8.3
         }
@@ -914,7 +914,7 @@
         "score4_target_match": 34.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 12.636248354722033,
+            "score4b_region": 12.6,
             "score4c_age": 19.0,
             "score4d_gender": 3.1
         }
@@ -924,7 +924,7 @@
         "score4_target_match": 33.9,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 10.74859690687499,
+            "score4b_region": 10.7,
             "score4c_age": 19.6,
             "score4d_gender": 3.6
         }
@@ -934,7 +934,7 @@
         "score4_target_match": 32.0,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 8.805727014656142,
+            "score4b_region": 8.8,
             "score4c_age": 19.6,
             "score4d_gender": 3.6
         }
@@ -944,7 +944,7 @@
         "score4_target_match": 42.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.042582228791403,
+            "score4b_region": 15.0,
             "score4c_age": 17.9,
             "score4d_gender": 9.7
         }
@@ -954,7 +954,7 @@
         "score4_target_match": 31.5,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 11.488850336233181,
+            "score4b_region": 11.5,
             "score4c_age": 19.7,
             "score4d_gender": 0.3
         }
@@ -964,7 +964,7 @@
         "score4_target_match": 25.3,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 8.364812463163275,
+            "score4b_region": 8.4,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -984,7 +984,7 @@
         "score4_target_match": 30.7,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 13.842190086035764,
+            "score4b_region": 13.8,
             "score4c_age": 14.8,
             "score4d_gender": 2.1
         }
@@ -1004,7 +1004,7 @@
         "score4_target_match": 30.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.64504250461502,
+            "score4b_region": 7.6,
             "score4c_age": 19.6,
             "score4d_gender": 2.9
         }
@@ -1024,7 +1024,7 @@
         "score4_target_match": 37.6,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 15.153592780074096,
+            "score4b_region": 15.2,
             "score4c_age": 19.4,
             "score4d_gender": 3.0
         }
@@ -1054,7 +1054,7 @@
         "score4_target_match": 39.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 16.075318872684417,
+            "score4b_region": 16.1,
             "score4c_age": 19.6,
             "score4d_gender": 3.4
         }
@@ -1064,7 +1064,7 @@
         "score4_target_match": 28.1,
         "component_scores": {
             "score4a_tag": 0.0,
-            "score4b_region": 7.787215321015561,
+            "score4b_region": 7.8,
             "score4c_age": 19.5,
             "score4d_gender": 0.8
         }
