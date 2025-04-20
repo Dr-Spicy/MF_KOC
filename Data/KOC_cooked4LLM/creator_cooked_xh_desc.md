@@ -256,21 +256,21 @@ This dataset provides a multidimensional view of creator performance by integrat
     - *Range:* 0 – 100  
 
 
-     -A. **score1a_efficiency**  
+    - A. **score1a_efficiency**  
        - *Description:*    基于点赞、收藏、评论三种核心互动行为，并引入时间衰减机制，衡量创作者在内容层面的真实互动效能。该评分更关注近期内容的热度，强调时效性与真实互动表现。
        - *Calculation:*    对点赞、收藏、评论数引入时间衰减（指数函数），再分别加权（35%、45%、20%），最后使用 Logistic 映射函数标准化并缩放至 0–50 范围。
        - *Type:* Float  
        - *Range:* 0 – 50  
 
 
-     -B. **score1b_quality**  
+    - B. **score1b_quality**  
        - *Description:*    通过“互动渗透率”（总互动数 / 粉丝数）与“评论占比”或“活跃粉丝占比”两个维度，衡量互动的真实价值与深度，避免高互动但低质量反馈的账号获得高分。
        - *Calculation:*    对渗透率与评论占比/活跃粉丝比使用 Logistic 函数进行映射后加权（70%、30%），并映射到 0–30 分的范围。
        - *Type:* Float  
        - *Range:* 0 – 30  
 
 
-     -C. **score1c_activity**  
+    - C. **score1c_activity**  
        - *Description:*    评估创作者发帖的规律性与持续性。考虑三个维度：平均发帖间隔（越频繁越好）、发帖时间标准差（越稳定越好）、近 90 天发帖数量（反映近期活跃程度）。
        - *Calculation:*    对间隔与波动性使用反向 Logistic 映射（更稳定得分越高），发帖频率则线性映射为满分 12。整体得分加权后映射至 0–20。
        - *Type:* Float  
