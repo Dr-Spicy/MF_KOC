@@ -276,4 +276,35 @@ This dataset provides a multidimensional view of creator performance by integrat
        - *Type:* Float  
        - *Range:* 0 – 20  
 
- 
+ 60. **score4_target_audience_match**  
+    - *Description:*    综合评估创作者粉丝群体与目标客群在兴趣标签、地域分布、年龄结构、性别比例四个维度的匹配度。通过层次化标签模型、梯度衰减模型、向量相似度匹配、非线性补偿函数等算法，量化内容创作者对目标受众的精准程度。  
+    - *Type:* Float  
+    - *Range:* 0 – 100  
+
+
+    - A. **score4a_tag**  
+       - *Description:*    兴趣标签匹配度，衡量粉丝兴趣标签（美食/生活记录/探店）与目标客户群的契合程度。采用双层评估体系，既考核标签覆盖率阈值达标度，也评估匹配精准度。  
+       - *Calculation:*    `重合率得分 = (粉丝兴趣标签总占比/25%) × 50`
+       - *Type:* Float  
+       - *Range:* 0 – 50  
+
+
+    - B. **score4b_region**  
+       - *Description:*    地域聚焦度，通过海外用户占比阶梯得分与DFW区域地理关键词覆盖度复合计算。重点识别具有本土化运营价值的创作者。  
+       - *Calculation:*    `海外比例得分 = 逆向阶梯模型（≥50%:10分，每降10%扣2分）` + `地理覆盖得分 = 10 × (地理关键词笔记覆盖比例 / 基准值)`  
+       - *Type:* Float  
+       - *Range:* 0 – 20  
+
+
+    - C. **score4c_age**  
+       - *Description:*    年龄分布匹配度，通过粉丝年龄分布向量与目标向量（10%/30%/30%/15%/15%）的余弦相似度计算。识别年龄结构吻合目标家庭消费决策群体的账号。  
+       - *Calculation:*    `得分 = 20 × [1 + 余弦相似度(θ,θ₀)] / 2`  
+       - *Type:* Float  
+       - *Range:* 0 – 20  
+
+
+    - D. **score4d_gender**  
+       - *Description:*    性别匹配度，采用拉普拉斯衰减函数对女性比例偏差进行双向惩罚。当粉丝女性比例偏离80%基准时，得分非线性衰减。  
+       - *Calculation:*    `得分 = 10 × exp(-2×|P_女粉-80%|/15)`  
+       - *Type:* Float  
+       - *Range:* 0 – 10  
