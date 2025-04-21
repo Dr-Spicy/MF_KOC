@@ -295,7 +295,7 @@ This dataset provides a multidimensional view of creator performance by integrat
        - *Range:* 0 – 20  
 
     - C. **score4c_age**  
-       - *Description:*    年龄分布匹配度，通过粉丝年龄分布向量与目标向量（10%/30%/30%/15%/15%）的余弦相似度计算。识别年龄结构吻合目标家庭消费决策群体的账号。  
+       - *Description:*    年龄分布匹配度，通过粉丝年龄分布向量与目标向量的余弦相似度$`\theta_0`$ = (18<: 10%, 18-24岁:30% + 25-34:30% + 35-44: 15% + >44: 15%) 计算。识别年龄结构吻合目标家庭消费决策群体的账号。  
        - *Calculation:*    `得分 = 20 × [1 + 余弦相似度(θ,θ₀)] / 2`  
        - *Type:* Float  
        - *Range:* 0 – 20  
