@@ -1,0 +1,19 @@
+{
+  "note_id": "Unique identifier for each post.",
+  "user_id": "Identifier linking the post to its creator.",
+  "title": "Title of the post.",
+  "note_body": "Description or body text of the post.",
+  "tag_list": "JSON-formatted string containing additional tags or metadata associated with the post.",
+  "image_count": "Count of image URLs associated with the post.",
+  "content_type_video": "Indicator or label specifying whether the post is a video post. This field differentiates video content from other types. 1 means it is video post and 0 means it is normal post.",
+  "hot_note": "Indicator or metric denoting whether the post is considered popular or \"hot\". 1 means it is hot and 0 means it is not.",
+  "post_time": "Time representing when the post was created.",
+  "last_update_time": "Time indicating the last time the post was updated.",
+  "scraped_time": "Time used for content extraction or indicating when the data was processed.",
+  "elapsed_time": "Time between the content was posted and scraped.",
+  "liked_count": "Number of likes the post has received.",
+  "collected_count": "Number of times the post has been saved or bookmarked.",
+  "comment_count": "Number of comments on the post.",
+  "share_count": "Number of shares the post has received.",
+  "interaction_count": "A computed metric representing the total interactions (e.g., sum of likes, collections, and shares) for the post."
+}
