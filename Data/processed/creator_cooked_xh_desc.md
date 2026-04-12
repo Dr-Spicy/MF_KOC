@@ -1,0 +1,322 @@
+# Final Dataset Overview: `creator_cooked_xh.json`
+
+This dataset provides a multidimensional view of creator performance by integrating detailed profile information with a variety of aggregated engagement and temporal metrics. Each row represents a unique creator and includes both static attributes and dynamic performance measures computed over different time windows. Data is combined from the rednote/xiaohongshu's database (col:1-45) and xinhong website (col:46-57).
+
+## Columns Description
+
+1. **user_id**  
+   - *Description:* Unique identifier for each creator.  
+   - *Type:* String.
+
+2. **nickname**  
+   - *Description:* The display name of the creator.  
+   - *Type:* String.
+
+3. **avatar**  
+   - *Description:* URL to the creator's profile image.  
+   - *Type:* String (URL).
+
+4. **desc**  
+   - *Description:* Enriched description of the creator. This text combines the original profile description with appended tag-based insights (e.g., zodiac, age, profession, college).  
+   - *Type:* String.
+
+5. **ip_location**  
+   - *Description:* Location inferred from the creator’s IP address.  
+   - *Type:* String.
+
+6. **follows**  
+   - *Description:* Number of accounts the creator is following.  
+   - *Type:* Integer.
+
+7. **fans**  
+   - *Description:* Number of followers the creator has.  
+   - *Type:* Integer.
+
+8. **interaction**  
+   - *Description:* Overall engagement metric on the creator’s profile.  
+   - *Type:* Integer.
+
+9. **last_modify_ts**  
+   - *Description:* Time when the creator’s profile or content was last updated (displayed in datetime format).  
+   - *Type:* Datetime.
+
+10. **pic_per_normal_note**  
+    - *Description:* Average number of pictures per normal (non-video) post.  
+    - *Type:* Float.
+
+11. **video_ratio**  
+    - *Description:* Ratio of video posts to total posts.  
+    - *Type:* Float.
+
+12. **hot_note_count**  
+    - *Description:* Count of "hot" (popular) posts by the creator.  
+    - *Type:* Integer.
+
+13. **total_share_counts_hot_ratio**  
+    - *Description:* Ratio of total share counts relative to hot posts, reflecting engagement on popular content.  
+    - *Type:* Float.
+
+14. **last_note2now**  
+    - *Description:* number of days elapsed from the creator's most recent post to the current time.  
+    - *Type:* Integer.
+
+15. **last_hot_note2now**  
+    - *Description:* number of days elapsed from the creator's most recent hot post to the current time.  
+    - *Type:* Integer.
+
+16. **weighted_total_share_counts**  
+    - *Description:* Weighted sum of share counts across posts, emphasizing certain posts over others.  
+    - *Type:* Float.
+
+18. **liked_count**  
+    - *Description:* Total number of likes received across all posts.  
+    - *Type:* Integer.
+
+19. **collected_count**  
+    - *Description:* Total number of times posts were collected (saved or bookmarked).  
+    - *Type:* Integer.
+
+20. **comment_count**  
+    - *Description:* Total number of comments received across all posts.  
+    - *Type:* Integer.
+
+21. **share_count**  
+    - *Description:* Total number of shares accumulated from all posts.  
+    - *Type:* Integer.
+
+22. **note_count**  
+    - *Description:* Total count of posts (notes) made by the creator.  
+    - *Type:* Integer.
+
+23. **location**  
+    - *Description:* three Standardized location categories derived from tag information (TX, US, abroad).  
+    - *Type:* String.
+
+24. **ff_ratio**  
+    - *Description:* Ratio of fans to follows, indicating the creator's influence.  
+    - *Type:* Float.
+
+25. **age_koc**  
+    - *Description:* Account age in days, calculated as the difference between the newest and oldest posts.  
+    - *Type:* Integer.
+
+26. **is_female**  
+    - *Description:* Binary indicator for gender; 1 indicates female, 0 indicates male.  
+    - *Type:* Integer.
+
+27. **min**  
+    - *Description:* The minimum (earliest) post timestamp for the creator.  
+    - *Type:* Datetime.
+
+28. **max**  
+    - *Description:* The maximum (latest) post timestamp for the creator.  
+    - *Type:* Datetime.
+
+29. **post_span**  
+    - *Description:* Time span between the earliest and latest posts.  
+    - *Type:* Timedelta or numeric representation (e.g., number of days).
+
+30. **first_post_time**  
+    - *Description:* Timestamp of the creator's first post.  
+    - *Type:* Datetime.
+
+31. **account_length**  
+    - *Description:* Duration in days from the creator's first post to the last modification timestamp.  
+    - *Type:* Integer.
+
+32. **history_avg**  
+    - *Description:* Average time interval between consecutive posts.  
+    - *Type:* Float.
+
+33. **history_std**  
+    - *Description:* Standard deviation of the time intervals between posts.  
+    - *Type:* Float.
+
+34. **post_avg**  
+    - *Description:* Average posting frequency (e.g., average number of posts per day).  
+    - *Type:* Float.
+
+35. **post_std**  
+    - *Description:* Standard deviation of the posting frequency.  
+    - *Type:* Float.
+
+36. **liked_90**  
+    - *Description:* Sum of likes received on posts made within the last 90 days (relative to the creator's last modification timestamp).  
+    - *Type:* Float.
+
+37. **collected_90**  
+    - *Description:* Sum of collected counts from posts in the 90-day window.  
+    - *Type:* Float.
+
+38. **comment_90**  
+    - *Description:* Sum of comments from posts in the last 90 days.  
+    - *Type:* Float.
+
+39. **share_90**  
+    - *Description:* Sum of shares from posts within the 90-day period.  
+    - *Type:* Float.
+
+40. **note_count_90**  
+    - *Description:* Count of posts made within the last 90 days.  
+    - *Type:* Integer.
+
+41. **liked_180**  
+    - *Description:* Sum of likes received on posts over the past 180 days.  
+    - *Type:* Float.
+
+42. **collected_180**  
+    - *Description:* Sum of collected counts from posts in the 180-day window.  
+    - *Type:* Float.
+
+43. **comment_180**  
+    - *Description:* Sum of comments received on posts over the past 180 days.  
+    - *Type:* Float.
+
+44. **share_180**  
+    - *Description:* Sum of shares from posts within the 180-day period.  
+    - *Type:* Float.
+
+45. **note_count_180**  
+     - *Description:* Count of posts made within the last 180 days.  
+     - *Type:* Integer.
+
+46. **图文报价(RMB)**  
+     - *Description:* 新红网站所给出的creator评估价格，单位为人民币
+     - *Type:* Integer.
+
+47. **图文报价有对号**  
+     - *Description:* 该名creator是否进行过商业合作，1代表是，0代表否
+     - *Type:* Integer.
+
+48. **平台等级**  
+     - *Description:* 小红书对于creator评估的平台等级从最低1到最高10，等级9和等级10被归类为等级9，未知等级被推测为等级3
+     - *Type:* Integer.
+
+49. **活跃粉丝占比(仅>1K)**  
+     - *Description:* 新红网站调查得到的creator粉丝中活跃粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+50. **粉丝女性比例**  
+     - *Description:* 新红网站调查得到的creator粉丝中女性粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+51. **粉丝年龄<18**  
+     - *Description:* 新红网站调查得到的creator粉丝中小于18岁的粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+52. **粉丝年龄18-24**  
+     - *Description:* 新红网站调查得到的creator粉丝中大于18岁且小于24岁的粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+53. **粉丝年龄25-34**  
+     - *Description:* 新红网站调查得到的creator粉丝中大于25岁且小于34岁的粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+54. **粉丝年龄35-44**  
+     - *Description:* 新红网站调查得到的creator粉丝中大于35岁且小于44岁的粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+
+55. **粉丝年龄>44**  
+     - *Description:* 新红网站调查得到的creator粉丝中大于44岁的粉丝的占比，单位为%，如果新红网站未提供，则标为null
+     - *Type:* Float or string.
+   
+56. **兴趣标签**  
+     - *Description:* 新红网站调查得到的creator发帖倾向标签的前五名，每行记录一个标签的排名、标签内容和占比
+     - *Type:* string.
+
+57. **地域分布**  
+     - *Description:* 新红网站调查得到的creator粉丝地理分布的前五名，每行记录一个地域的排名、地域内容和占比
+     - *Type:* string.
+58. **score1_account_influence**  
+    - *Description:*    综合衡量创作者在平台上的互动表现、受众反馈质量以及持续活跃度等多个维度的账号影响力指标。该评分通过整合三个关键子维度（互动效能、互动质量、账号活跃度），旨在识别在真实用户中具有高影响力、强曝光互动能力的创作者。每个子评分均通过 Logistic 映射函数进行标准化，避免极端值并增强中间段区分度。
+    - *Type:* Float  
+
+    - A. **score1a_efficiency**  
+       - *Description:*    基于点赞、收藏、评论三种核心互动行为，并引入时间衰减机制，衡量创作者在内容层面的真实互动效能。该评分更关注近期内容的热度，强调时效性与真实互动表现。对点赞、收藏、评论数引入时间衰减（指数函数），再分别加权（35%、45%、20%），最后使用 Logistic 映射函数标准化并缩放至 0–50 范围。
+       - *Type:* Float  
+
+
+
+    - B. **score1b_quality**  
+       - *Description:*    通过“互动渗透率”（总互动数 / 粉丝数）与“评论占比”或“活跃粉丝占比”两个维度，衡量互动的真实价值与深度，避免高互动但低质量反馈的账号获得高分。对渗透率与评论占比/活跃粉丝比使用 Logistic 函数进行映射后加权（70%、30%），并映射到 0–30 分的范围。
+       - *Type:* Float  
+
+
+
+    - C. **score1c_activity**  
+       - *Description:*    评估创作者发帖的规律性与持续性。考虑三个维度：平均发帖间隔（越频繁越好）、发帖时间标准差（越稳定越好）、近 90 天发帖数量（反映近期活跃程度）。对间隔与波动性使用反向 Logistic 映射（更稳定得分越高），发帖频率则线性映射为满分 12。整体得分加权后映射至 0–20。
+       - *Type:* Float  
+59. **score2_content_media**  
+    - *Description:*    综合衡量创作者在平台上的内容传播力指标。该评分通过整合三个关键子维度（传播效能、爆款质量、视觉表达度），旨在识别在真实用户中具有高影响力、强曝光互动能力的创作者。每个子评分均通过 sigmoid 映射函数进行标准化，避免极端值并增强中间段区分度。
+    - *Type:* Float  
+
+    - A. **score2a_media**  
+       - *Description:*    基于该用户帖子的分享互动行为，并引入时间衰减机制，衡量创作者在内容层面的真实互动效能。该评分更关注近期内容的传播力，强调时效性与真实互动表现。对分享数引入时间衰减（指数函数），快速期半衰期25天（每日衰减2%），长尾期半衰期175天（每周衰减2%），基于全量180天内分享总数据95%分位数动态设定，最后使用 sigmoid 映射函数标准化并缩放至 0–50 范围。
+       - *Type:* Float  
+
+    - B. **score2b_hot**  
+       - *Description:*    根据该用户粉丝数划分为千粉级与粉丝数不到一千的素人级，并将其中总互动数高于一定阙值的帖子定义为爆款帖子，粉丝数越少阙值越低。对用户的爆款笔记数除以基于全量180天内分享总数据95%分位数动态设定并给予70%的权重，对用户的爆款分享占比除以基于全量180天内分享总数据95%分位数动态设定并给予30%的权重，将两者权重相加后的结果使用 sigmoid 映射函数标准化并缩放至 0–30 范围。
+       - *Type:* Float  
+
+    - C. **score2c_picture**  
+       - *Description:*    对用户的图片密度（非视频笔记图片总数/非视频笔记数，上限8张）除以基于全量180天内分享总数据95%分位数动态设定并给予60%的权重，对用户的视频笔记占比除以基于全量180天内分享总数据95%分位数动态设定并给予40%的权重，将两者权重相加后的结果使用 sigmoid 映射函数标准化并缩放至 0–20 范围。
+       - *Type:* Float  
+60. **score3_content_quality**  
+     - *Description:* 旨在从多个维度综合衡量创作者内容的专业性、独特性、感染力和相关性。该指标通过整合四个关键维度的评分，为品牌识别优质内容创作者提供定量依据，确保投放资源能获得最佳营销效益。每个维度的得分都经过了sigmoid函数的分布校正
+     - *Type:* Float
+
+    - A. **score3a_originality**
+        - *Description:* 基于同自身内容(内部)和其他创作者内容(外部)比较后, 旨在定量评估创作者产出差异化内容的能力
+        - *Type:* Float
+
+    - B. **score3b_vertical**
+        - *Description:* 通过与既定的目标领域集合对比, 定量分析创作者的内容专注度，有助于发现在目标领域持续有专业深度贡献的创作者
+        - *Type:* Float
+    
+    - C. **score3c_sentiment**
+        - *Description:* 通过NLP技术量化笔记中的情感特征，旨在识别那些能够传递丰富、真实情感体验，从而与受众产生深度共鸣的内容创作者
+        - *Type:* Float
+
+    - D. **score3d_keyword**
+        - *Description:* 通过模糊文本匹配技术，识别那些持续产出与目标品牌/产品高度相关内容的创作者，确保推荐的KOC真正聚焦于特定主题
+        - *Type:* Float
+
+61. **score4_target_audience_match**  
+    - *Description:*    综合评估创作者粉丝群体与目标客群在兴趣标签、地域分布、年龄结构、性别比例四个维度的匹配度。通过层次化标签模型、梯度衰减模型、向量相似度匹配、非线性补偿函数等算法，量化内容创作者对目标受众的精准程度。  
+    - *Type:* Float  
+
+
+    - A. **score4a_tag**  
+       - *Description:*    兴趣标签匹配度，衡量粉丝兴趣标签（美食/生活记录/探店）与目标客户群的契合程度。采用双层评估体系，既考核标签覆盖率阈值达标度，也评估匹配精准度。计算方法为重合率得分 = (粉丝兴趣标签总占比/25%) × 50  
+       - *Type:* Float  
+
+
+    - B. **score4b_region**  
+       - *Description:*    地域聚焦度，通过海外用户占比阶梯得分与DFW区域地理关键词覆盖度复合计算。重点识别具有本土化运营价值的创作者。计算方法为海外比例得分 = 逆向阶梯模型（≥50%:10分，每降10%扣2分）+地理覆盖得分 = 10 × (地理关键词笔记覆盖比例 / 基准值)  
+       - *Type:* Float  
+
+
+    - C. **score4c_age**  
+       - *Description:*    年龄分布匹配度，通过粉丝年龄分布向量与目标向量的余弦相似度$`\theta_0`$ = (18<: 10%, 18-24岁:30% + 25-34:30% + 35-44: 15% + >44: 15%) 计算。识别年龄结构吻合目标消费决策群体的账号。计算方法为得分 = 20 × [1 + 余弦相似度(θ,θ₀)] / 2  
+       - *Type:* Float  
+
+
+    - D. **score4d_gender**  
+       - *Description:*    性别匹配度，采用拉普拉斯衰减函数对女性比例偏差进行双向惩罚。当粉丝女性比例偏离80%基准时，得分非线性衰减。计算方法为得分 = 10 × exp(-2×|P_女粉-80%|/15)  
+       - *Type:* Float  
+
+62. **score5_business_coop**  
+    - *Description:*    综合衡量创作者在平台上的商业合作潜力指标。该评分通过整合三个关键子维度（报价合理性、平台信用等级、合作意向信号），旨在识别在真实用户中具有合作潜力的创作者。每个子评分均通过 sigmoid 映射函数进行标准化，避免极端值并增强中间段区分度。计算此维度分数的数据来源于新红网站。
+    - *Type:* Float  
+
+    - A. **score5a_price**  
+       - *Description:*    基于新红网站提供的报价评估引入衰减机制，使100元以上的报价越高，得分越少。
+       - *Type:* Float  
+
+    - B. **score5b_Credit_Level**  
+       - *Description:*    基于小红书平台提供的九个用户信用等级转化为分数，低于三级的被视为三级，高于八级的得到略低于八级的分数。
+       - *Type:* Float  
+
+    - C. **score5c_coop_history**  
+       - *Description:*    有过合作历史的用户得10分，没有则不得分。
+       - *Type:* Float  

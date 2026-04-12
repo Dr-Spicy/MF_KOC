@@ -1,0 +1,1062 @@
+[
+    {
+        "user_id": "576d3bde82ec3952ff40c5e1",
+        "score3_content_quality": 75.68486759258747,
+        "component_scores": {
+            "score3a_originality": 13.808265311985734,
+            "score3b_vertical": 19.444753579620254,
+            "score3c_sentiment": 20.821760900140678,
+            "score3d_keyword": 21.610087800840798
+        }
+    },
+    {
+        "user_id": "58b325ce50c4b442ae017a30",
+        "score3_content_quality": 53.93686569823531,
+        "component_scores": {
+            "score3a_originality": 17.826291287839723,
+            "score3b_vertical": 8.84845344679821,
+            "score3c_sentiment": 21.78433750616925,
+            "score3d_keyword": 5.477783457428123
+        }
+    },
+    {
+        "user_id": "5c0c067c0000000005022f0a",
+        "score3_content_quality": 38.58363652153775,
+        "component_scores": {
+            "score3a_originality": 13.400800563991883,
+            "score3b_vertical": 4.517171371642842,
+            "score3c_sentiment": 15.04838376497845,
+            "score3d_keyword": 5.617280820924568
+        }
+    },
+    {
+        "user_id": "5649379603eb842b7ed00477",
+        "score3_content_quality": 73.87972580688634,
+        "component_scores": {
+            "score3a_originality": 11.054140248276877,
+            "score3b_vertical": 20.287048791286548,
+            "score3c_sentiment": 24.25620559369584,
+            "score3d_keyword": 18.282331173627075
+        }
+    },
+    {
+        "user_id": "5d6a927e00000000010068b9",
+        "score3_content_quality": 54.60687925208488,
+        "component_scores": {
+            "score3a_originality": 10.192829830468135,
+            "score3b_vertical": 20.224719891855994,
+            "score3c_sentiment": 15.595610176610494,
+            "score3d_keyword": 8.593719353150256
+        }
+    },
+    {
+        "user_id": "56ada7e482ec39541becb6ff",
+        "score3_content_quality": 77.85465246254324,
+        "component_scores": {
+            "score3a_originality": 19.434398176307354,
+            "score3b_vertical": 16.271650938130602,
+            "score3c_sentiment": 19.592638197699937,
+            "score3d_keyword": 22.55596515040534
+        }
+    },
+    {
+        "user_id": "60c7988c0000000001005e11",
+        "score3_content_quality": 51.70506110685702,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 8.304996185961073,
+            "score3c_sentiment": 16.609842111145596,
+            "score3d_keyword": 2.790222809750352
+        }
+    },
+    {
+        "user_id": "5f03c93d000000000100466e",
+        "score3_content_quality": 49.09119762497764,
+        "component_scores": {
+            "score3a_originality": 17.88084225440301,
+            "score3b_vertical": 8.35247758409103,
+            "score3c_sentiment": 19.438556973917326,
+            "score3d_keyword": 3.41932081256627
+        }
+    },
+    {
+        "user_id": "5801c70f6a6a697bad62b653",
+        "score3_content_quality": 48.657071366315684,
+        "component_scores": {
+            "score3a_originality": 16.66877714940521,
+            "score3b_vertical": 4.844937939474042,
+            "score3c_sentiment": 21.170597810710262,
+            "score3d_keyword": 5.972758466726167
+        }
+    },
+    {
+        "user_id": "5a700b5de8ac2b38e1053423",
+        "score3_content_quality": 53.21680789352557,
+        "component_scores": {
+            "score3a_originality": 15.562416388204271,
+            "score3b_vertical": 10.709637393231484,
+            "score3c_sentiment": 18.988323727435464,
+            "score3d_keyword": 7.956430384654355
+        }
+    },
+    {
+        "user_id": "592463636a6a696f6fa9c1c1",
+        "score3_content_quality": 41.714965438248775,
+        "component_scores": {
+            "score3a_originality": 16.4847779998473,
+            "score3b_vertical": 12.23353112765265,
+            "score3c_sentiment": 10.318200786938062,
+            "score3d_keyword": 2.6784555238107615
+        }
+    },
+    {
+        "user_id": "570b4b5a1c07df4cfd6ccbf0",
+        "score3_content_quality": 54.52435940042874,
+        "component_scores": {
+            "score3a_originality": 18.844150552261244,
+            "score3b_vertical": 11.045263436683271,
+            "score3c_sentiment": 21.699451026724404,
+            "score3d_keyword": 2.9354943847598305
+        }
+    },
+    {
+        "user_id": "5ab249e04eacab0790fb78b3",
+        "score3_content_quality": 41.38909028204949,
+        "component_scores": {
+            "score3a_originality": 20.354611864326124,
+            "score3b_vertical": 9.865505018576103,
+            "score3c_sentiment": 7.520903436100847,
+            "score3d_keyword": 3.648069963046419
+        }
+    },
+    {
+        "user_id": "663ab3fc0000000007005c31",
+        "score3_content_quality": 72.8611515086877,
+        "component_scores": {
+            "score3a_originality": 10.434019057339261,
+            "score3b_vertical": 21.867520644442187,
+            "score3c_sentiment": 24.6021957845339,
+            "score3d_keyword": 15.957416022372348
+        }
+    },
+    {
+        "user_id": "606c83060000000001002c85",
+        "score3_content_quality": 78.80379435942012,
+        "component_scores": {
+            "score3a_originality": 15.965913934938554,
+            "score3b_vertical": 18.652224759605264,
+            "score3c_sentiment": 23.217856019605733,
+            "score3d_keyword": 20.967799645270567
+        }
+    },
+    {
+        "user_id": "5a737fe211be1032dfeccbdf",
+        "score3_content_quality": 58.08364053537735,
+        "component_scores": {
+            "score3a_originality": 18.72301301628047,
+            "score3b_vertical": 15.974971531836898,
+            "score3c_sentiment": 18.025158588287013,
+            "score3d_keyword": 5.3604973989729645
+        }
+    },
+    {
+        "user_id": "626ec8020000000021021067",
+        "score3_content_quality": 54.33289873044956,
+        "component_scores": {
+            "score3a_originality": 13.48901447030068,
+            "score3b_vertical": 17.354169552947898,
+            "score3c_sentiment": 14.485574888181535,
+            "score3d_keyword": 9.004139819019445
+        }
+    },
+    {
+        "user_id": "5fa04c2c0000000001007566",
+        "score3_content_quality": 75.71837515880141,
+        "component_scores": {
+            "score3a_originality": 14.869755555383545,
+            "score3b_vertical": 22.309375098539856,
+            "score3c_sentiment": 23.384815487927316,
+            "score3d_keyword": 15.15442901695069
+        }
+    },
+    {
+        "user_id": "62f0659d000000001f015932",
+        "score3_content_quality": 52.88954010768984,
+        "component_scores": {
+            "score3a_originality": 14.827092659937158,
+            "score3b_vertical": 12.422891527724106,
+            "score3c_sentiment": 19.353638484000665,
+            "score3d_keyword": 6.285917436027912
+        }
+    },
+    {
+        "user_id": "623d476a000000001000b343",
+        "score3_content_quality": 62.8998565105266,
+        "component_scores": {
+            "score3a_originality": 13.246408867688393,
+            "score3b_vertical": 20.005605552382455,
+            "score3c_sentiment": 17.23041748076253,
+            "score3d_keyword": 12.41742460969322
+        }
+    },
+    {
+        "user_id": "564d4a9167bc65539cd768d4",
+        "score3_content_quality": 29.77298787505923,
+        "component_scores": {
+            "score3a_originality": 17.626363994610934,
+            "score3b_vertical": 3.7618459804724638,
+            "score3c_sentiment": 4.829985096666306,
+            "score3d_keyword": 3.554792803309523
+        }
+    },
+    {
+        "user_id": "5d34030d0000000011005892",
+        "score3_content_quality": 81.26242489187683,
+        "component_scores": {
+            "score3a_originality": 14.06759003090828,
+            "score3b_vertical": 20.966972057058104,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 21.22786280391045
+        }
+    },
+    {
+        "user_id": "5c4e1c6b00000000110216f7",
+        "score3_content_quality": 79.84112917056085,
+        "component_scores": {
+            "score3a_originality": 16.182179370053646,
+            "score3b_vertical": 17.666489168713525,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 20.99246063179368
+        }
+    },
+    {
+        "user_id": "54d82c482e1d9366ebfc8ce5",
+        "score3_content_quality": 71.98141659286827,
+        "component_scores": {
+            "score3a_originality": 7.429601465776379,
+            "score3b_vertical": 20.80722189582613,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 18.744593231265767
+        }
+    },
+    {
+        "user_id": "67865b1a000000000803eeb0",
+        "score3_content_quality": 48.094028299668786,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 24.094028299668786,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5530f8642e1d9365fa9a29fb",
+        "score3_content_quality": 62.11890862858252,
+        "component_scores": {
+            "score3a_originality": 13.90646358534707,
+            "score3b_vertical": 20.522245148400476,
+            "score3c_sentiment": 17.371201693669132,
+            "score3d_keyword": 10.318998201165838
+        }
+    },
+    {
+        "user_id": "5bd47767f16b990001e1072b",
+        "score3_content_quality": 66.10540323441714,
+        "component_scores": {
+            "score3a_originality": 16.981950986984145,
+            "score3b_vertical": 18.69479679878532,
+            "score3c_sentiment": 20.837949008454647,
+            "score3d_keyword": 9.590706440193028
+        }
+    },
+    {
+        "user_id": "57fdaead82ec3961690f6b93",
+        "score3_content_quality": 49.82037831179265,
+        "component_scores": {
+            "score3a_originality": 10.14837711985289,
+            "score3b_vertical": 12.757394892178699,
+            "score3c_sentiment": 17.528712871731237,
+            "score3d_keyword": 9.385893428029823
+        }
+    },
+    {
+        "user_id": "5ec7a678000000000100322e",
+        "score3_content_quality": 40.27764858590666,
+        "component_scores": {
+            "score3a_originality": 22.078249830716608,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 18.199398755190053,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "67845b1b000000000801f5d8",
+        "score3_content_quality": 49.0,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5f8e26de000000000101de15",
+        "score3_content_quality": 47.13378581524792,
+        "component_scores": {
+            "score3a_originality": 19.146253939467762,
+            "score3b_vertical": 6.497752381967333,
+            "score3c_sentiment": 16.593145145884936,
+            "score3d_keyword": 4.8966343479278835
+        }
+    },
+    {
+        "user_id": "595b8e775e87e737755bf1bd",
+        "score3_content_quality": 36.96912539181779,
+        "component_scores": {
+            "score3a_originality": 17.925323691211354,
+            "score3b_vertical": 3.8281470333857364,
+            "score3c_sentiment": 12.470007812562589,
+            "score3d_keyword": 2.7456468546581134
+        }
+    },
+    {
+        "user_id": "617961470000000002027fea",
+        "score3_content_quality": 44.32608848761438,
+        "component_scores": {
+            "score3a_originality": 16.93234082443682,
+            "score3b_vertical": 5.374241091163746,
+            "score3c_sentiment": 18.615926394039658,
+            "score3d_keyword": 3.4035801779741557
+        }
+    },
+    {
+        "user_id": "5f5119d80000000001003189",
+        "score3_content_quality": 52.77410608078381,
+        "component_scores": {
+            "score3a_originality": 19.41044254728585,
+            "score3b_vertical": 8.893133152464285,
+            "score3c_sentiment": 18.17716495512889,
+            "score3d_keyword": 6.293365425904781
+        }
+    },
+    {
+        "user_id": "593a946750c4b410410c3805",
+        "score3_content_quality": 35.41091109903555,
+        "component_scores": {
+            "score3a_originality": 19.77736450148715,
+            "score3b_vertical": 5.488760801550809,
+            "score3c_sentiment": 6.946386283263031,
+            "score3d_keyword": 3.198399512734562
+        }
+    },
+    {
+        "user_id": "5d6c539f000000000101bbfd",
+        "score3_content_quality": 68.64977546428813,
+        "component_scores": {
+            "score3a_originality": 9.495861017329748,
+            "score3b_vertical": 20.212813831929292,
+            "score3c_sentiment": 24.305589543866276,
+            "score3d_keyword": 14.635511071162815
+        }
+    },
+    {
+        "user_id": "6785e363000000000801d306",
+        "score3_content_quality": 52.470709158637725,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 5.265537419704195,
+            "score3c_sentiment": 23.20517173893353,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5cfc717b000000000501b4de",
+        "score3_content_quality": 43.330651024100334,
+        "component_scores": {
+            "score3a_originality": 16.723380295491047,
+            "score3b_vertical": 8.089225917022178,
+            "score3c_sentiment": 18.51804481158711,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5df4c6bb000000000100b24b",
+        "score3_content_quality": 45.55381273687106,
+        "component_scores": {
+            "score3a_originality": 18.30218284810395,
+            "score3b_vertical": 4.101082004930286,
+            "score3c_sentiment": 19.37420155361705,
+            "score3d_keyword": 3.7763463302197753
+        }
+    },
+    {
+        "user_id": "5cf39f8e000000001701f516",
+        "score3_content_quality": 49.66424711734068,
+        "component_scores": {
+            "score3a_originality": 18.56917774232807,
+            "score3b_vertical": 9.260656462183896,
+            "score3c_sentiment": 17.72725517393942,
+            "score3d_keyword": 4.1071577388892955
+        }
+    },
+    {
+        "user_id": "57f5f8b06a6a6963e65ffc89",
+        "score3_content_quality": 56.549351189408554,
+        "component_scores": {
+            "score3a_originality": 8.082930224572912,
+            "score3b_vertical": 19.535070948865695,
+            "score3c_sentiment": 19.886071798258094,
+            "score3d_keyword": 9.045278217711852
+        }
+    },
+    {
+        "user_id": "591cf96250c4b428b4eff077",
+        "score3_content_quality": 62.27351103404551,
+        "component_scores": {
+            "score3a_originality": 13.989461904703244,
+            "score3b_vertical": 15.569681136993504,
+            "score3c_sentiment": 14.218302722404774,
+            "score3d_keyword": 18.496065269943994
+        }
+    },
+    {
+        "user_id": "5fdc406c000000000100ad2e",
+        "score3_content_quality": 49.420954197412314,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 22.954103502352492,
+            "score3d_keyword": 2.466850695059819
+        }
+    },
+    {
+        "user_id": "56b2e6dae4251d7f46ab14e3",
+        "score3_content_quality": 54.94622784734445,
+        "component_scores": {
+            "score3a_originality": 23.184143373500852,
+            "score3b_vertical": 8.296023369578615,
+            "score3c_sentiment": 19.224097996119436,
+            "score3d_keyword": 4.241963108145545
+        }
+    },
+    {
+        "user_id": "5aa1bb384eacab56033470ce",
+        "score3_content_quality": 34.91252594843207,
+        "component_scores": {
+            "score3a_originality": 16.435809082612806,
+            "score3b_vertical": 9.07991761934604,
+            "score3c_sentiment": 5.134008433159886,
+            "score3d_keyword": 4.262790813313336
+        }
+    },
+    {
+        "user_id": "625cc665000000001000e71f",
+        "score3_content_quality": 70.26157493501239,
+        "component_scores": {
+            "score3a_originality": 18.72035825761113,
+            "score3b_vertical": 17.007588336216987,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 9.533628341184263
+        }
+    },
+    {
+        "user_id": "568b2f486a6a6962f22d07ba",
+        "score3_content_quality": 54.477490137865985,
+        "component_scores": {
+            "score3a_originality": 22.663792703160844,
+            "score3b_vertical": 4.959661675012779,
+            "score3c_sentiment": 22.793653326787783,
+            "score3d_keyword": 4.060382432904577
+        }
+    },
+    {
+        "user_id": "5c64384000000000110164ad",
+        "score3_content_quality": 39.680995009550955,
+        "component_scores": {
+            "score3a_originality": 22.08167946508597,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 13.76479613336394,
+            "score3d_keyword": 3.834519411101039
+        }
+    },
+    {
+        "user_id": "5d72c2a60000000001019168",
+        "score3_content_quality": 63.707145204643226,
+        "component_scores": {
+            "score3a_originality": 19.676615362508127,
+            "score3b_vertical": 12.07752474021543,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 6.953005101919675
+        }
+    },
+    {
+        "user_id": "5aa0cade11be1046ae887e60",
+        "score3_content_quality": 50.89535768744344,
+        "component_scores": {
+            "score3a_originality": 18.808107126348993,
+            "score3b_vertical": 7.051404146055018,
+            "score3c_sentiment": 20.562250763037213,
+            "score3d_keyword": 4.4735956520022215
+        }
+    },
+    {
+        "user_id": "55f2f7e3f5a2635bd2fac7b5",
+        "score3_content_quality": 43.71808956399145,
+        "component_scores": {
+            "score3a_originality": 16.41438263611162,
+            "score3b_vertical": 5.086486189619563,
+            "score3c_sentiment": 17.552031330122134,
+            "score3d_keyword": 4.665189408138135
+        }
+    },
+    {
+        "user_id": "5b67b542a559a50001e1ff09",
+        "score3_content_quality": 63.8805238762704,
+        "component_scores": {
+            "score3a_originality": 12.639286916818817,
+            "score3b_vertical": 19.51533975173451,
+            "score3c_sentiment": 17.197536365377857,
+            "score3d_keyword": 14.52836084233922
+        }
+    },
+    {
+        "user_id": "55481451b203d97e86008c02",
+        "score3_content_quality": 60.55870216963689,
+        "component_scores": {
+            "score3a_originality": 10.51982030534566,
+            "score3b_vertical": 21.457424819760988,
+            "score3c_sentiment": 13.962529912401605,
+            "score3d_keyword": 14.618927132128636
+        }
+    },
+    {
+        "user_id": "5f5888a8000000000101e50d",
+        "score3_content_quality": 40.959133232943444,
+        "component_scores": {
+            "score3a_originality": 16.40581757386532,
+            "score3b_vertical": 19.953894870078866,
+            "score3c_sentiment": 2.448227744371504,
+            "score3d_keyword": 2.151193044627749
+        }
+    },
+    {
+        "user_id": "5b778c2d5b95340001d6de60",
+        "score3_content_quality": 47.30569993763177,
+        "component_scores": {
+            "score3a_originality": 21.550036425362975,
+            "score3b_vertical": 4.628417478078151,
+            "score3c_sentiment": 16.37941214518135,
+            "score3d_keyword": 4.747833889009293
+        }
+    },
+    {
+        "user_id": "604fd7a70000000001007a46",
+        "score3_content_quality": 47.27709239632497,
+        "component_scores": {
+            "score3a_originality": 20.37962655589948,
+            "score3b_vertical": 8.18793121745281,
+            "score3c_sentiment": 18.709534622972676,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5b6a0b58c207e50001f9124d",
+        "score3_content_quality": 48.80616890941666,
+        "component_scores": {
+            "score3a_originality": 23.400570648592797,
+            "score3b_vertical": 3.6700973034714304,
+            "score3c_sentiment": 19.049389588831314,
+            "score3d_keyword": 2.6861113685211198
+        }
+    },
+    {
+        "user_id": "5a6ada44db2e6012444e4a39",
+        "score3_content_quality": 54.930519822864696,
+        "component_scores": {
+            "score3a_originality": 23.07578317594567,
+            "score3b_vertical": 8.76871876503624,
+            "score3c_sentiment": 23.086017881882782,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5994315250c4b44ce63f0df6",
+        "score3_content_quality": 54.140038301187374,
+        "component_scores": {
+            "score3a_originality": 12.820660623760906,
+            "score3b_vertical": 13.27999032928781,
+            "score3c_sentiment": 19.701764877701983,
+            "score3d_keyword": 8.33762247043668
+        }
+    },
+    {
+        "user_id": "6349a37f000000001802bbed",
+        "score3_content_quality": 47.76708602870666,
+        "component_scores": {
+            "score3a_originality": 20.205348490262384,
+            "score3b_vertical": 16.56279541065222,
+            "score3c_sentiment": 1.2471193025638527,
+            "score3d_keyword": 9.751822825228196
+        }
+    },
+    {
+        "user_id": "613f2b6a000000000201f3ba",
+        "score3_content_quality": 51.94018091657068,
+        "component_scores": {
+            "score3a_originality": 22.20274066107675,
+            "score3b_vertical": 3.702810566940897,
+            "score3c_sentiment": 22.118121623602754,
+            "score3d_keyword": 3.916508064950277
+        }
+    },
+    {
+        "user_id": "5859b26f6a6a6967855d7c65",
+        "score3_content_quality": 46.20964903259233,
+        "component_scores": {
+            "score3a_originality": 15.984943007151386,
+            "score3b_vertical": 10.077542142257862,
+            "score3c_sentiment": 17.064013441704077,
+            "score3d_keyword": 3.0831504414790043
+        }
+    },
+    {
+        "user_id": "627d9846000000002102336f",
+        "score3_content_quality": 48.22762536941516,
+        "component_scores": {
+            "score3a_originality": 17.79484450661827,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 21.370504181535033,
+            "score3d_keyword": 9.062276681261856
+        }
+    },
+    {
+        "user_id": "5ab3172c11be105422211c84",
+        "score3_content_quality": 52.775121046732075,
+        "component_scores": {
+            "score3a_originality": 15.670870106146946,
+            "score3b_vertical": 15.119517628019064,
+            "score3c_sentiment": 16.18156628387398,
+            "score3d_keyword": 5.803167028692083
+        }
+    },
+    {
+        "user_id": "59417dd15e87e7122b80b498",
+        "score3_content_quality": 56.57636180459656,
+        "component_scores": {
+            "score3a_originality": 16.135734637733172,
+            "score3b_vertical": 15.092959842678905,
+            "score3c_sentiment": 20.059847834104037,
+            "score3d_keyword": 5.287819490080444
+        }
+    },
+    {
+        "user_id": "5a74dca911be1032569e20df",
+        "score3_content_quality": 72.3213625470853,
+        "component_scores": {
+            "score3a_originality": 22.567884703750977,
+            "score3b_vertical": 15.556208576645714,
+            "score3c_sentiment": 20.619431018841148,
+            "score3d_keyword": 13.577838247847458
+        }
+    },
+    {
+        "user_id": "5aa34d334eacab095adb82e3",
+        "score3_content_quality": 61.907733524772944,
+        "component_scores": {
+            "score3a_originality": 20.42669213252517,
+            "score3b_vertical": 5.522827550411169,
+            "score3c_sentiment": 22.34466184121744,
+            "score3d_keyword": 13.613552000619164
+        }
+    },
+    {
+        "user_id": "558a4a065894460336de85bf",
+        "score3_content_quality": 52.18799797670547,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 3.359702794650011,
+            "score3c_sentiment": 21.10343633711424,
+            "score3d_keyword": 3.7248588449412194
+        }
+    },
+    {
+        "user_id": "5bf0eea1da9ae10001cfd0a1",
+        "score3_content_quality": 40.39264705505252,
+        "component_scores": {
+            "score3a_originality": 19.615128453503328,
+            "score3b_vertical": 4.0798197399193965,
+            "score3c_sentiment": 16.697698861629796,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5afe57874eacab6bff64b75b",
+        "score3_content_quality": 49.83484608227475,
+        "component_scores": {
+            "score3a_originality": 13.0258698155471,
+            "score3b_vertical": 11.147137062791025,
+            "score3c_sentiment": 16.593056997891342,
+            "score3d_keyword": 9.068782206045288
+        }
+    },
+    {
+        "user_id": "5cf3d4cd00000000100324a0",
+        "score3_content_quality": 56.440495307988954,
+        "component_scores": {
+            "score3a_originality": 21.85428656229621,
+            "score3b_vertical": 8.162652608527988,
+            "score3c_sentiment": 23.23270821943269,
+            "score3d_keyword": 3.190847917732067
+        }
+    },
+    {
+        "user_id": "61476c9f0000000002020845",
+        "score3_content_quality": 65.81783723009224,
+        "component_scores": {
+            "score3a_originality": 17.15837120639716,
+            "score3b_vertical": 18.413153345141513,
+            "score3c_sentiment": 23.795582662428345,
+            "score3d_keyword": 6.450730016125224
+        }
+    },
+    {
+        "user_id": "589f2a696a6a69228d063c80",
+        "score3_content_quality": 52.08048152352635,
+        "component_scores": {
+            "score3a_originality": 10.694285571666974,
+            "score3b_vertical": 13.663421302721071,
+            "score3c_sentiment": 22.471809552999915,
+            "score3d_keyword": 5.250965096138391
+        }
+    },
+    {
+        "user_id": "60e859f1000000000100b675",
+        "score3_content_quality": 46.876100931731074,
+        "component_scores": {
+            "score3a_originality": 20.506444344917725,
+            "score3b_vertical": 9.010595524789876,
+            "score3c_sentiment": 17.359061062023468,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5d236c2400000000110291ba",
+        "score3_content_quality": 44.86894718831713,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 7.798464211476198,
+            "score3c_sentiment": 13.070482976840932,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "6303b99d0000000012001f58",
+        "score3_content_quality": 59.82828462996654,
+        "component_scores": {
+            "score3a_originality": 19.827248257797187,
+            "score3b_vertical": 12.747856446499954,
+            "score3c_sentiment": 22.154489406743252,
+            "score3d_keyword": 5.0986905189261496
+        }
+    },
+    {
+        "user_id": "5f1880d8000000000101d503",
+        "score3_content_quality": 60.25927786286542,
+        "component_scores": {
+            "score3a_originality": 5.284920613876382,
+            "score3b_vertical": 23.641024444189068,
+            "score3c_sentiment": 13.027599838657284,
+            "score3d_keyword": 18.305732966142685
+        }
+    },
+    {
+        "user_id": "63288a0200000000230275fd",
+        "score3_content_quality": 48.24708490800822,
+        "component_scores": {
+            "score3a_originality": 23.436875001072295,
+            "score3b_vertical": 5.275078164062182,
+            "score3c_sentiment": 19.535131742873745,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "57a142546a6a695a454d664e",
+        "score3_content_quality": 37.689479330046616,
+        "component_scores": {
+            "score3a_originality": 19.161689246424043,
+            "score3b_vertical": 4.171145633403156,
+            "score3c_sentiment": 11.486888659920641,
+            "score3d_keyword": 2.869755790298773
+        }
+    },
+    {
+        "user_id": "6110a0940000000001002eec",
+        "score3_content_quality": 40.328201858912564,
+        "component_scores": {
+            "score3a_originality": 22.956085680890162,
+            "score3b_vertical": 4.900325288477908,
+            "score3c_sentiment": 9.265549033968515,
+            "score3d_keyword": 3.2062418555759846
+        }
+    },
+    {
+        "user_id": "5eef790e0000000001002090",
+        "score3_content_quality": 47.4489168418419,
+        "component_scores": {
+            "score3a_originality": 11.953224579645742,
+            "score3b_vertical": 15.053191194495552,
+            "score3c_sentiment": 16.868501295649395,
+            "score3d_keyword": 3.5739997720512093
+        }
+    },
+    {
+        "user_id": "6104251600000000010052ab",
+        "score3_content_quality": 40.4119077703567,
+        "component_scores": {
+            "score3a_originality": 14.050897341658805,
+            "score3b_vertical": 6.6013333176653175,
+            "score3c_sentiment": 19.759677111032577,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5b7ba8c2e6c06200012a5977",
+        "score3_content_quality": 64.80437526401776,
+        "component_scores": {
+            "score3a_originality": 19.14011085628838,
+            "score3b_vertical": 20.75807815876214,
+            "score3c_sentiment": 19.370199868690587,
+            "score3d_keyword": 5.535986380276656
+        }
+    },
+    {
+        "user_id": "676f0595000000001801da5d",
+        "score3_content_quality": 54.79754593920285,
+        "component_scores": {
+            "score3a_originality": 22.22600984382128,
+            "score3b_vertical": 7.571536095381569,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5e1d86f90000000001006abc",
+        "score3_content_quality": 45.45293890357831,
+        "component_scores": {
+            "score3a_originality": 24.0,
+            "score3b_vertical": 6.20206367095869,
+            "score3c_sentiment": 15.250875232619617,
+            "score3d_keyword": 0.0
+        }
+    },
+    {
+        "user_id": "5f3a3aa5000000000101e9ac",
+        "score3_content_quality": 63.94245460582318,
+        "component_scores": {
+            "score3a_originality": 18.02241014967646,
+            "score3b_vertical": 15.21064546074967,
+            "score3c_sentiment": 24.493839819159096,
+            "score3d_keyword": 6.215559176237953
+        }
+    },
+    {
+        "user_id": "585dce396a6a69308e6d580d",
+        "score3_content_quality": 79.62007641470689,
+        "component_scores": {
+            "score3a_originality": 10.867227803065113,
+            "score3b_vertical": 20.700470357201574,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 23.052378254440193
+        }
+    },
+    {
+        "user_id": "556f1983f5a26347140b104b",
+        "score3_content_quality": 58.964290913138996,
+        "component_scores": {
+            "score3a_originality": 15.636312621850026,
+            "score3b_vertical": 12.830558175884274,
+            "score3c_sentiment": 21.618568574366098,
+            "score3d_keyword": 8.878851541038602
+        }
+    },
+    {
+        "user_id": "57ffbca35e87e76f746d9a64",
+        "score3_content_quality": 70.38550618911036,
+        "component_scores": {
+            "score3a_originality": 10.978920059133777,
+            "score3b_vertical": 22.888619344709305,
+            "score3c_sentiment": 17.477125989115883,
+            "score3d_keyword": 19.040840796151397
+        }
+    },
+    {
+        "user_id": "576e5cc95e87e72f9801db4d",
+        "score3_content_quality": 55.83167080959887,
+        "component_scores": {
+            "score3a_originality": 13.38485086187633,
+            "score3b_vertical": 19.52350605096329,
+            "score3c_sentiment": 19.408032758431624,
+            "score3d_keyword": 3.5152811383276243
+        }
+    },
+    {
+        "user_id": "5ee6752c000000000101dc73",
+        "score3_content_quality": 68.64994042675985,
+        "component_scores": {
+            "score3a_originality": 11.384384717676433,
+            "score3b_vertical": 20.697025822084566,
+            "score3c_sentiment": 14.214936377830426,
+            "score3d_keyword": 22.353593509168434
+        }
+    },
+    {
+        "user_id": "580c368650c4b44811e07ff8",
+        "score3_content_quality": 50.37454014453096,
+        "component_scores": {
+            "score3a_originality": 17.817760591513125,
+            "score3b_vertical": 6.7118983415455835,
+            "score3c_sentiment": 19.517098542632468,
+            "score3d_keyword": 6.327782668839781
+        }
+    },
+    {
+        "user_id": "5deef4710000000001006a73",
+        "score3_content_quality": 62.107554208333994,
+        "component_scores": {
+            "score3a_originality": 12.484429661981407,
+            "score3b_vertical": 21.848326139694436,
+            "score3c_sentiment": 19.75320801044623,
+            "score3d_keyword": 8.021590396211918
+        }
+    },
+    {
+        "user_id": "651b72c60000000024016c70",
+        "score3_content_quality": 70.3491817384471,
+        "component_scores": {
+            "score3a_originality": 15.433052139970846,
+            "score3b_vertical": 23.760038741943365,
+            "score3c_sentiment": 25.0,
+            "score3d_keyword": 6.156090856532903
+        }
+    },
+    {
+        "user_id": "5dfd27da0000000001009aae",
+        "score3_content_quality": 43.80284503059935,
+        "component_scores": {
+            "score3a_originality": 7.3388338882860165,
+            "score3b_vertical": 18.336615369243667,
+            "score3c_sentiment": 4.106785253266338,
+            "score3d_keyword": 14.020610519803329
+        }
+    },
+    {
+        "user_id": "5bcd24861193dc000127b483",
+        "score3_content_quality": 53.56191585947958,
+        "component_scores": {
+            "score3a_originality": 16.69654048926524,
+            "score3b_vertical": 14.05791339180063,
+            "score3c_sentiment": 19.05702773621553,
+            "score3d_keyword": 3.7504342421981844
+        }
+    },
+    {
+        "user_id": "5a7b0ca44eacab082944e6e3",
+        "score3_content_quality": 51.39190066670453,
+        "component_scores": {
+            "score3a_originality": 12.422458426044097,
+            "score3b_vertical": 13.374132091653383,
+            "score3c_sentiment": 20.648849867243047,
+            "score3d_keyword": 4.946460281764007
+        }
+    },
+    {
+        "user_id": "5d01cb140000000017003df6",
+        "score3_content_quality": 52.38570406468823,
+        "component_scores": {
+            "score3a_originality": 11.531158637260479,
+            "score3b_vertical": 19.69005484408125,
+            "score3c_sentiment": 15.561964929669516,
+            "score3d_keyword": 5.602525653676984
+        }
+    },
+    {
+        "user_id": "6613fa0f000000000303117f",
+        "score3_content_quality": 51.64838161380008,
+        "component_scores": {
+            "score3a_originality": 21.73707850685946,
+            "score3b_vertical": 0.0,
+            "score3c_sentiment": 24.282043997062285,
+            "score3d_keyword": 5.629259109878333
+        }
+    },
+    {
+        "user_id": "615b505c000000000201f7b8",
+        "score3_content_quality": 37.40976621365483,
+        "component_scores": {
+            "score3a_originality": 8.890989102156672,
+            "score3b_vertical": 18.652224759605264,
+            "score3c_sentiment": 2.433887953993054,
+            "score3d_keyword": 7.432664397899839
+        }
+    },
+    {
+        "user_id": "5b6ca1b7e44bfa0001a013e6",
+        "score3_content_quality": 47.71000584048802,
+        "component_scores": {
+            "score3a_originality": 18.448609588067274,
+            "score3b_vertical": 6.400511479449591,
+            "score3c_sentiment": 20.00713503163721,
+            "score3d_keyword": 2.8537497413339485
+        }
+    },
+    {
+        "user_id": "5a5bf1414eacab4087b808c7",
+        "score3_content_quality": 49.366618113787524,
+        "component_scores": {
+            "score3a_originality": 18.73043747743334,
+            "score3b_vertical": 7.63994956375755,
+            "score3c_sentiment": 18.208624393177995,
+            "score3d_keyword": 4.787606679418639
+        }
+    },
+    {
+        "user_id": "621a0927000000001000f950",
+        "score3_content_quality": 44.42626442602102,
+        "component_scores": {
+            "score3a_originality": 15.861146615650197,
+            "score3b_vertical": 6.483486674875791,
+            "score3c_sentiment": 18.502126314195763,
+            "score3d_keyword": 3.5795048212992637
+        }
+    },
+    {
+        "user_id": "5c4be6f500000000100050c6",
+        "score3_content_quality": 50.19083836997758,
+        "component_scores": {
+            "score3a_originality": 18.863845760394938,
+            "score3b_vertical": 6.417236932599376,
+            "score3c_sentiment": 20.887153242391538,
+            "score3d_keyword": 4.0226024345917235
+        }
+    },
+    {
+        "user_id": "587623ba6a6a691cffba0875",
+        "score3_content_quality": 67.3900887512604,
+        "component_scores": {
+            "score3a_originality": 23.298229213248863,
+            "score3b_vertical": 14.334870943748141,
+            "score3c_sentiment": 21.575659684539094,
+            "score3d_keyword": 8.181328909724304
+        }
+    },
+    {
+        "user_id": "57edc02550c4b47c9e876daf",
+        "score3_content_quality": 54.91271473613739,
+        "component_scores": {
+            "score3a_originality": 23.75573028362193,
+            "score3b_vertical": 5.713339931601069,
+            "score3c_sentiment": 22.891900507326298,
+            "score3d_keyword": 2.5517440135880918
+        }
+    }
+]
