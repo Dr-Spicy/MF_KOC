@@ -16,7 +16,7 @@ def merge_json_files(input_folder, output_folder, is_ex):
         json_files = glob.glob(pattern, recursive=True)
         
         combined_data = []
-        user_id_collection = []
+        user_id_collection = set()
         count_creator = 0
         for json_file in json_files:
             try:
@@ -27,7 +27,7 @@ def merge_json_files(input_folder, output_folder, is_ex):
                         user_id = i["user_id"]
                         if user_id not in user_id_collection:
                             combined_data.append(i)
-                            user_id_collection.append(user_id)
+                            user_id_collection.add(user_id)
                 print(f"Successfully processed: {json_file}")
             except Exception as e:
                 print(f"Error loading {json_file}: {e}")
@@ -42,7 +42,7 @@ def merge_json_files(input_folder, output_folder, is_ex):
         json_files = glob.glob(pattern, recursive=True)
         
         combined_data = []
-        note_id_collection = []
+        note_id_collection = set()
         count_note = 0
         for json_file in json_files:
             try:
@@ -62,8 +62,8 @@ def merge_json_files(input_folder, output_folder, is_ex):
                                 int(comment_count)
                                 int(share_count)
                                 combined_data.append(i)
-                                note_id_collection.append(note_id)
-                            except:
+                                note_id_collection.add(note_id)
+                            except (ValueError, TypeError):
                                 print(os.path.basename(json_file),i.get("nickname", "")+" of "+note_id+" :"+liked_count,collected_count,comment_count,share_count)
                                 
                 print(f"Successfully processed: {json_file}")
@@ -79,7 +79,7 @@ def merge_json_files(input_folder, output_folder, is_ex):
         pattern = os.path.join(input_folder, '**/*.json')
         json_files = glob.glob(pattern, recursive=True)
         combined_data = []
-        note_id_collection = []
+        note_id_collection = set()
         count_note = 0
         for json_file in json_files:
             try:
@@ -97,7 +97,7 @@ def merge_json_files(input_folder, output_folder, is_ex):
                             for j in i.get("tag_list", ""):
                                 taglist += j.get("name", "")
                                 taglist += ","
-                            dict = {
+                            note_dict = {
                                 "note_id": note_id,
                                 "type": i.get("type", ""),
                                 "title": i.get("title", ""),
@@ -120,8 +120,8 @@ def merge_json_files(input_folder, output_folder, is_ex):
                                 "source_keyword": "",
                                 "xsec_token": i.get("user", {}).get("xsec_token", ""),
                             }
-                            combined_data.append(dict)
-                            note_id_collection.append(note_id)
+                            combined_data.append(note_dict)
+                            note_id_collection.add(note_id)
                 print(f"Successfully processed: {json_file}")
             except Exception as e:
                 print(f"Error loading {json_file}: {e}")
